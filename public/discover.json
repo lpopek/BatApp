@@ -1,7 +1,8 @@
 {
+    "discovers":[
     {
         "id": 0,
-        "date": 2008-07-09,
+        "date": "2008-07-09",
         "paper_name": "Ecological dynamics of emerging bat virus spillover",
         "bat": "Acerodon jubatus",
         "virus": "Bat mastadenovirus WIV10",
@@ -12,7 +13,7 @@
     },
     {
         "id": 1,
-        "date": 2010-06-09,
+        "date": "2010-06-09",
         "paper_name": "Bat-borne virus diversity, spillover and emergence",
         "bat": "Acerodon jubatus",
         "virus": "Rabies virus WIV19",
@@ -21,4 +22,5 @@
         "state": "Mazowsze",
         "county":"płocki"
     }
+    ]
 }
