@@ -9,47 +9,40 @@ import VectorLayer from 'ol/layer/Vector'
 import VectorSource from 'ol/source/Vector'
 import XYZ from 'ol/source/XYZ'
 import {transform} from 'ol/proj'
+import Style from 'ol/style/Style'
+import Fill from 'ol/style/Fill'
+import Icon from 'ol/style/Icon'
 
 
 export default function MapWrapper(props) {
 
-  const place = [-110, 45];
-
- const point = new Point(place);
-
   const [ map, setMap ] = useState()
-  const [ featuresLayer, setFeaturesLayer ] = useState()
+  const [ featuresLayer, setFeaturesLayer ] = useState(() =>{
+    return new VectorLayer({
+    source: new VectorSource(),
+  })})
   const [ selectedCoord , setSelectedCoord ] = useState()
 
   const mapElement = useRef()
   const mapRef = useRef()
   mapRef.current = map
-
+  
   useEffect( () => {
-
-    const initalFeaturesLayer = new VectorLayer({
-      source: new VectorSource()
+    const rasterLayer = new TileLayer({
+      source: new XYZ({
+        url: 'http://mt0.google.com/vt/lyrs=p&hl=en&x={x}&y={y}&z={z}',
+      })
     })
 
     const initialMap = new Map({
       target: mapElement.current,
       layers: [
-        new TileLayer({
-          source: new XYZ({
-            url: 'http://mt0.google.com/vt/lyrs=p&hl=en&x={x}&y={y}&z={z}',
-            features: [new Feature(point)]
-          }),
-        style: {
-          'circle-radius': 9,
-          'circle-fill-color': 'red',
-        }
-        })
-        
+        rasterLayer,
+        featuresLayer
       ],
       view: new View({
-        projection: 'EPSG:3857',
         center: [0, 0],
-        zoom: 2
+        zoom: 1
       }),
       controls: []
     })
@@ -58,9 +51,21 @@ export default function MapWrapper(props) {
 
     
     setMap(initialMap)
-    setFeaturesLayer(initalFeaturesLayer)
 
-  },[])
+  }, [])
+
+  useEffect( () => {
+
+    if (props.features.length) { // may be null on first render
+      // set features to map
+      featuresLayer.setSource(
+        new VectorSource({
+          features: props.features // make sure features is an array
+        })
+      )
+    }
+
+  },[props.features])
 
   const handleMapClick = (event) => {
 
@@ -68,7 +73,7 @@ export default function MapWrapper(props) {
     const transormedCoord = transform(clickedCoord, 'EPSG:3857', 'EPSG:4326')
     setSelectedCoord( transormedCoord )
 
-    console.log(transormedCoord, clickedCoord)
+    console.log(transormedCoord)
     
   }
 

@@ -1,6 +1,6 @@
 import { Box } from '@mui/material';
 
-import TabPanel from './components/Menu.js'
+import TabSwitcher from './components/Menu.js'
 import Header from './components/Header.js'
 
 
@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Box sx={{width: 1, maxHeight: '1120px', bgcolor: 'black', mx: '0'}}>
         <Header className="Footer"/>
-        <TabPanel/>
+        <TabSwitcher/>
         <Footer className="Footer"/>
       </Box>
     </div>
