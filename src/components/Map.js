@@ -1,5 +1,8 @@
 
 import React, { useState, useEffect, useRef } from 'react';
+
+import InfoDialog from './Dialog';
+
 import Map from 'ol/Map'
 import View from 'ol/View'
 import TileLayer from 'ol/layer/Tile'
@@ -58,6 +61,12 @@ const selectedStyle = new Style({
 });
 
 export default function MapWrapper(props) {
+
+  const [dialogIsOpen, setDialogIsOpen] = useState(false)
+  const [featureProperties, setFeatureProperties] = useState()
+  
+  const closeDialog = () => setDialogIsOpen(false)
+  const openDialog = () => setDialogIsOpen(true)
 
   const [ map, setMap ] = useState()
 
@@ -126,25 +135,18 @@ export default function MapWrapper(props) {
   var featureOnClick = null;
   const handleMapClick = (event) => {
     featureOnClick = mapRef.current.forEachFeatureAtPixel(event.pixel, function(feature, layer) {
-      if (featureOnClick !== null) {
-        featureOnClick.setStyle(undefined);
-        featureOnClick = null;
-      }
-      featureOnClick = feature
-      featureOnClick.setStyle(selectedStyle)
-      return feature;
+      // setFeatureProperties(feature.values_)
+      console.log(feature.values_)
+      openDialog()
     });
-
-    // const clickedCoord = mapRef.current.getCoordinateFromPixel(event.pixel);
-    // const transormedCoord = transform(clickedCoord, 'EPSG:3857', 'EPSG:4326')
-    // setSelectedCoord( transormedCoord )
-    // console.log(transormedCoord)
     
   }
 
   // render component
   return (      
-    <div ref={mapElement} className="map-container"></div>
+    <div ref={mapElement} className="map-container">
+      <InfoDialog open={dialogIsOpen} onClose={closeDialog} featureProperties = {featureProperties}/>
+    </div>
   ) 
 
 }
