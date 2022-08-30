@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, {useEffect, useState} from 'react';
 import Paper from '@mui/material/Paper';
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
@@ -73,29 +73,26 @@ function createData(id, paper, date, bat, virus, geo_cord, loc_0, loc_1, loc_2) 
 }
 
 
+export default function ColumnGroupingTable(props) {
 
-const rows = [
-  createData(1, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(2, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(3, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(4, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(5, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(6, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(7, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(8, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(9, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(10, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(11, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(12, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(13, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(14, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(15, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-  createData(16, 'Ecological dynamics of emerging bat virus spillover', '01-05-2005', 'Acerodon jubatus', 'Bat mastadenovirus WIV10', '41°24\'N 2°10\'E', 'Poland', 'Mazowsze', 'Miasto Warszawa'),
-];
+  const[rows, fillRows] = useState([]);
+  useEffect(() => {
+    const discovers = props.tableData.discovers.reverse().map((item) => createData(
+      item.id, 
+      item.paper_name, 
+      item.date, 
+      item.bat, 
+      item.virus, 
+      item.cordinates, 
+      item.country, 
+      item.state, 
+      item.county, 
+      ))
+    fillRows(discovers)
+  }, [])
 
-export default function ColumnGroupingTable() {
-  const [page, setPage] = React.useState(0);
-  const [rowsPerPage, setRowsPerPage] = React.useState(10);
+  const [page, setPage] = useState(0);
+  const [rowsPerPage, setRowsPerPage] = useState(10);
 
   const handleChangePage = (event, newPage) => {
     setPage(newPage);
@@ -108,8 +105,8 @@ export default function ColumnGroupingTable() {
 
   return (
     <Paper sx={{ width: '100%' }} className='map-container'>
-      <TableContainer sx={{ maxHeight: 440 }}>
-        <Table stickyHeader aria-label="sticky table">
+      <TableContainer className='table-container'>
+        <Table stickyHeader aria-label="sticky table" >
           <TableHead>
             <TableRow>
               {columns.map((column) => (
@@ -153,6 +150,7 @@ export default function ColumnGroupingTable() {
         page={page}
         onPageChange={handleChangePage}
         onRowsPerPageChange={handleChangeRowsPerPage}
+        className='table-pagination'
       />
     </Paper>
   );

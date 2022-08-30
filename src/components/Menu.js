@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 
 import Tabs from '@mui/material/Tabs';
@@ -6,10 +6,9 @@ import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 
-import GeoJSON from 'ol/format/GeoJSON'
-
 import MapWrapper from './Map.js';
 import ColumnGroupingTable from './Table.js';
+
 
 
 function TabPanel(props) {
@@ -45,33 +44,13 @@ function a11yProps(index) {
   };
 }
 
-export default function TabSwitcher() {
+export default function TabSwitcher(props) {
 
-  const [ features, setFeatures ] = useState([])
-  useEffect( () => {
-
-    fetch('./mock-geojson-api.json')
-      .then(response => response.json())
-      .then( (fetchedFeatures) => {
-        // parse fetched geojson into OpenLayers features
-        //  use options to convert feature from EPSG:4326 to EPSG:3857
-        const wktOptions = {
-          dataProjection: 'EPSG:4326',
-          featureProjection: 'EPSG:3857'
-        }
-        const parsedFeatures = new GeoJSON().readFeatures(fetchedFeatures)
-        // set features into state (which will be passed into OpenLayers
-        //  map component as props)
-        setFeatures(parsedFeatures)
-      })
-  
-  },[])
   const [value, setValue] = React.useState(0);
 
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };
-
   return (
     <Box sx={{ width: 0.95, bgcolor: '#EDEDED', mx: 'auto'}}>
       <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
@@ -81,10 +60,10 @@ export default function TabSwitcher() {
         </Tabs>
       </Box>
       <TabPanel value={value} index={0}>
-        <MapWrapper features={features}/>
+        <MapWrapper features={props.geopoints}/>
       </TabPanel>
       <TabPanel value={value} index={1}>
-        <ColumnGroupingTable/>
+        <ColumnGroupingTable tableData={props.tableData}/>
       </TabPanel>
     </Box>
   );
