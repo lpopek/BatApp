@@ -4,9 +4,9 @@
         "id": 0,
         "date": "2008-07-09",
         "paper_name": "Ecological dynamics of emerging bat virus spillover",
-        "bat": "Acerodon jubatus",
+        "bat": "Acerodon jubatus", 
         "virus": "Bat mastadenovirus WIV10",
-        "cordinates": "41°24'N 2°10'E",
+        "cordinates": [41.24, 74.2],
         "country": "Brazil",
         "state": "Amazonas",
         "county":"Manacapuru"
@@ -17,10 +17,10 @@
         "paper_name": "Bat-borne virus diversity, spillover and emergence",
         "bat": "Acerodon jubatus",
         "virus": "Rabies virus WIV19",
-        "cordinates": "65°24'N 13°10'E",
+        "cordinates": [-34.23, -3.48],
         "country": "Poland",
         "state": "Mazowsze",
-        "county":"płocki"
+        "county":"Płocki"
     },
     {
         "id":2,
@@ -28,7 +28,7 @@
         "paper_name": "COVID‐19, media coverage of bats and related Web searches: a turning point for bat conservation?",
         "bat": "Eidolon helvum",
         "virus": "Lagos bat virus (LBV)",
-        "cordinates": "7°55'N 1°12'E",
+        "cordinates": [16.87, -36.23],
         "country": "Togo",
         "state": "Gaougble",
         "county": "N/A"

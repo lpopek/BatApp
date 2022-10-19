@@ -9,20 +9,18 @@ import TileLayer from 'ol/layer/Tile'
 import VectorLayer from 'ol/layer/Vector'
 import VectorSource from 'ol/source/Vector'
 import XYZ from 'ol/source/XYZ'
-import {transform, fromLonLat} from 'ol/proj'
 
-import {Circle, RegularShape, Fill, Stroke, Style} from 'ol/style'
+
+import {Circle, Fill, Stroke, Style} from 'ol/style'
 
 const colors = [
   new Fill({color: 'rgba(255, 0, 0, 0.3)'}),
   new Fill({color: 'rgba(0, 255, 0, 0.5)'}),
-  new Fill({color: 'rgba(0, 0, 255, 0.7)'}),
 ];
 
 const strokes = [
   new Stroke({color: 'red', width: 1}),
   new Stroke({color: 'green', width: 1}),
-  new Stroke({color: 'blue', width: 1}),
 ]
 
 var defaultIcon = new Circle({
@@ -49,17 +47,6 @@ const hoverStyle = new Style({
     })
 });
 
-const selectedStyle = new Style({
-  image: new RegularShape({  
-    fill: colors[2],
-    points: 5,
-    radius: 10,
-    radius2: 5,
-    angle: 0,
-    stroke: strokes[2],
-    })
-});
-
 export default function MapWrapper(props) {
 
   const [dialogIsOpen, setDialogIsOpen] = useState(false)
@@ -69,13 +56,11 @@ export default function MapWrapper(props) {
   const openDialog = () => setDialogIsOpen(true)
 
   const [ map, setMap ] = useState()
-
   const [ featuresLayer, setFeaturesLayer ] = useState(() =>{
     return new VectorLayer({
     style: defaultStyleFunction,
     source: new VectorSource(),
   })})
-  const [ selectedCoord , setSelectedCoord ] = useState()
 
   const mapElement = useRef()
   const mapRef = useRef()
@@ -96,7 +81,7 @@ export default function MapWrapper(props) {
       ],
       view: new View({
         center: [0, 0],
-        zoom: 1
+        zoom: 2
       }),
       controls: []
     })
@@ -104,11 +89,10 @@ export default function MapWrapper(props) {
     initialMap.on('click', handleMapClick)
     initialMap.on('pointermove', handleFeatureHover)
     setMap(initialMap)
-
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   useEffect( () => {
-
     if (props.features.length) { 
       featuresLayer.setSource(
         new VectorSource({
@@ -116,7 +100,7 @@ export default function MapWrapper(props) {
         })
       )
     }
-
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   },[props.features])
 
   let hoverOver = null;
@@ -135,8 +119,7 @@ export default function MapWrapper(props) {
   var featureOnClick = null;
   const handleMapClick = (event) => {
     featureOnClick = mapRef.current.forEachFeatureAtPixel(event.pixel, function(feature, layer) {
-      // setFeatureProperties(feature.values_)
-      console.log(feature.values_)
+      setFeatureProperties(feature.values_)
       openDialog()
     });
     

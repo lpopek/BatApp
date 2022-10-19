@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, { useState, useEffect } from 'react';
 import Button from '@mui/material/Button';
 import Dialog from '@mui/material/Dialog';
 import DialogActions from '@mui/material/DialogActions';
@@ -6,29 +6,40 @@ import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 import CancelIcon from '@mui/icons-material/Cancel';
-import { none } from 'ol/centerconstraint';
+
 
 
 export default function InfoDialog(props) {
     const open = props.open
     const onClose = props.onClose
+    const [discoverData, setDiscoverData] = useState(
+        {
+            "id":" ",
+            "date": " ",
+            "paper_name": " ",
+            "bat": " ",
+            "virus": " ",
+        })
+    useEffect(() => {
+        if (typeof props.featureProperties !== 'undefined')
+            setDiscoverData(props.featureProperties)
+    }, [props.featureProperties])
     return (
         <div>
         <Dialog
             open={open}
             onClose={onClose}
         >
-            <DialogTitle id="alert-dialog-title">
+            <DialogTitle id="alert-dialog-title" className='dialog-title'>
             {"Discover Informations"}
             </DialogTitle>
             <DialogContent>
             <DialogContentText id="alert-dialog-description">
-                INFO
-                {/* <div>Id:{props.featureProperties.id}</div>
-                <div>Bat:{props.featureProperties.bat}</div>
-                <div>Virus:{props.featureProperties.virus}</div>
-                <div>Paper:{props.featureProperties.paper_name}</div>
-                <div>Date:{props.featureProperties.date}</div> */}
+                <div>Id: {discoverData.id}</div>
+                <div>Bat: {discoverData.bat}</div>
+                <div>Virus: {discoverData.virus}</div>
+                <div>Paper: {discoverData.paper_name}</div>
+                <div>Date: {discoverData.date}</div>
             </DialogContentText>
             </DialogContent>
             <DialogActions>
@@ -37,16 +48,4 @@ export default function InfoDialog(props) {
         </Dialog>
         </div>
     );
-    InfoDialog.defaultProps = {
-        open: false,
-        onClose: none,
-        featureProperties: {
-            "id":" ",
-            "date": " ",
-            "paper_name": " ",
-            "bat": " ",
-            "virus": " ",
-        }
-        
-    }
 }

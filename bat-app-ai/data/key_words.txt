@@ -1,0 +1,37 @@
+South Africa; bacteria; bats; microbiota; reproduction; virus.
+Bats; Chiroptera; Coronavirus; Diversity; Emergence; Europe; Evolution; MERS-CoV; Phylogenetics; SARS-CoV.
+Madagascar; Mozambique; Multiple infections; Triaenops afer; Triaenops menamena.
+Africa; HCoV-229E; HCoV-NL63; bats; coronavirus; recombination; zoonoses.
+Bat; Coronavirus; Emerging infectious diseases; Paramyxovirus; Phylogeny; Zimbabwe
+Zimbabwe; bat coronavirus (Bt CoVs); genetic diversity; human–bat interaction; reproductive phenology.
+bastrovirus; bat; metagenomics; picobirnavirus; rotavirus H; virome.
+Betacoronavirus; Epidemiological niche; Frugivorous bats; Nigeria.
+bat; astroviruses; Gabon; host restriction; genetic diversity.
+Africa; Guinea; bat; coronavirus; virus diversity.
+229-E-like bat coronavirus; Rotavirus A; astroviruses (AstVs); calicivirus (CalVs).
+MERS coronavirus; Uganda; bat; spike; zoonoses.
+hepatitis A virus; pathogenesis; small mammals; viral evolution; zoonosis.
+Crocidura hirta; Orthoreovirus; Rousettus aegyptiacus; Zambia.
+Egyptian rousette bat; co-circulation; excretion dynamics; human mumps virus-related; human parainfluenza virus-related; paramyxovirus; rubulavirus; tissue distribution; viral shedding.
+Angolan free-tailed bat; Bombali Ebola virus; Ebola virus; Kenya; Mops condylurus; bat; filovirus; viruses.
+bat; coronavirus; evolution; viral ecology.
+Bats; Cambodia; Coronaviruses; Genetic diversity; Lao PDR.
+COVID-19; SARS-CoV-2; bats; coronavirus; evolution; phylogeny; porcine epidemic diarrhea virus; spike protein; swine acute diarrhea syndrome.
+Coronavirus; Evolution; Phylogeny; Recombination; Rodents.
+adenovirus; bat virus; coronavirus; paramyxovirus; viral detection.
+Korea; Middle East respiratory syndrome; bat; coronavirus; group H rotavirus; severe acute respiratory syndrome.
+Miniopterus fuliginosus; Sri Lanka; bat alphacoronavirus; cave-dwelling; coronavirus; full genome; one health; sympatric colony.
+Hypsugo savii; Kazakhstan; Myotis blythii; coronavirus; phylogeny; virus discovery.
+SARS-related coronavirus; epidemiology; genetic diversity; horseshoe bats.
+Bat; Diversity; Herpesviruses; Phylogeny; Southern China.
+bat; coronavirus; enrichment; genome; next-generation sequencing.
+Nyctalus plancyi velutinus; Pipistrellus abramus; Taiwan; bat; lyssavirus.
+bats; pigs; reassortment; spillover; viruses.
+RNA viruses; insect viruses; virus excretion; virus taxonomy.
+Bats; Chiroptera; Coronavirus; Diversity; Emergence; Europe; Evolution; MERS-CoV; Phylogenetics; SARS-CoV.
+Europe; alphacoronavirus; bats; coronavirus; molecular characterization; phylogenetic analysis; phylogeographic analysis.
+France; bats; coronavirus; genetic diversity; hedgehogs; rodents; wild rabbits; wildlife.
+Bat-borne viruses; Coronavirus; Emerging viruses; Genetic characterization; Paramyxovirus; Surveillance.
+Chiroptera; Luxembourg; coronavirus; molecular epidemiology; paramyxovirus; phylogenetic analysis; surveillance studies; virology; zoonotic infections.
+Bat; Calicivirus; Daubenton's bat; Europe; Hungary; Protein modeling; Serotine bat; Virus.
+hepatitis A virus; pathogenesis; small mammals; viral evolution; zoonosis.

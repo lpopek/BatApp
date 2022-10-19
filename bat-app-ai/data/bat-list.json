@@ -1,0 +1,5084 @@
+{
+    "bat-list": [
+        {
+            "latin-name": "Acerodon celebensis",
+            "common-name": "Sulawesi fruit bat"
+        },
+        {
+            "latin-name": "Acerodon humilis",
+            "common-name": "Talaud fruit bat"
+        },
+        {
+            "latin-name": "Acerodon jubatus",
+            "common-name": "Golden-capped fruit bat"
+        },
+        {
+            "latin-name": "Acerodon leucotis",
+            "common-name": "Palawan fruit bat"
+        },
+        {
+            "latin-name": "Acerodon mackloti",
+            "common-name": "Sunda fruit bat"
+        },
+        {
+            "latin-name": "Aethalops aequalis",
+            "common-name": "Borneo fruit bat"
+        },
+        {
+            "latin-name": "Aethalops alecto",
+            "common-name": "Pygmy fruit bat"
+        },
+        {
+            "latin-name": "Alionycteris paucidentata",
+            "common-name": "Mindanao pygmy fruit bat"
+        },
+        {
+            "latin-name": "Ametrida centurio",
+            "common-name": "Little white-shouldered bat"
+        },
+        {
+            "latin-name": "Amorphochilus schnablii",
+            "common-name": "Smoky bat"
+        },
+        {
+            "latin-name": "Anoura cadenai",
+            "common-name": "Cadena's tailless bat"
+        },
+        {
+            "latin-name": "Anoura caudifer",
+            "common-name": "Tailed tailless bat"
+        },
+        {
+            "latin-name": "Anoura cultrata",
+            "common-name": "Handley's tailless bat"
+        },
+        {
+            "latin-name": "Anoura fistulata",
+            "common-name": "Tube-lipped nectar bat"
+        },
+        {
+            "latin-name": "Anoura geoffroyi",
+            "common-name": "Geoffroy's tailless bat"
+        },
+        {
+            "latin-name": "Anoura latidens",
+            "common-name": "Broad-toothed tailless bat"
+        },
+        {
+            "latin-name": "Anthops ornatus",
+            "common-name": "Flower-faced bat"
+        },
+        {
+            "latin-name": "Antrozous pallidus",
+            "common-name": "Pallid bat"
+        },
+        {
+            "latin-name": "Aproteles bulmerae",
+            "common-name": "Bulmer's fruit bat"
+        },
+        {
+            "latin-name": "Ardops nichollsi",
+            "common-name": "Tree bat"
+        },
+        {
+            "latin-name": "Arielulus aureocollaris",
+            "common-name": "Collared pipistrelle"
+        },
+        {
+            "latin-name": "Arielulus circumdatus",
+            "common-name": "Black-gilded pipistrelle"
+        },
+        {
+            "latin-name": "Arielulus cuprosus",
+            "common-name": "Coppery pipistrelle"
+        },
+        {
+            "latin-name": "Arielulus societatis",
+            "common-name": "Social pipistrelle"
+        },
+        {
+            "latin-name": "Arielulus torquatus",
+            "common-name": "Necklace pipistrelle"
+        },
+        {
+            "latin-name": "Ariteus flavescens",
+            "common-name": "Jamaican fig-eating bat"
+        },
+        {
+            "latin-name": "Artibeus amplus",
+            "common-name": "Large fruit-eating bat"
+        },
+        {
+            "latin-name": "Artibeus concolor",
+            "common-name": "Brown fruit-eating bat"
+        },
+        {
+            "latin-name": "Artibeus fimbriatus",
+            "common-name": "Fringed fruit-eating bat"
+        },
+        {
+            "latin-name": "Artibeus fraterculus",
+            "common-name": "Fraternal fruit-eating bat"
+        },
+        {
+            "latin-name": "Artibeus hirsutus",
+            "common-name": "Hairy fruit-eating bat"
+        },
+        {
+            "latin-name": "Artibeus inopinatus",
+            "common-name": "Honduran fruit-eating bat"
+        },
+        {
+            "latin-name": "Artibeus jamaicensis",
+            "common-name": "Jamaican fruit bat"
+        },
+        {
+            "latin-name": "Artibeus lituratus",
+            "common-name": "Great fruit-eating bat"
+        },
+        {
+            "latin-name": "Artibeus obscurus",
+            "common-name": "Dark fruit-eating bat"
+        },
+        {
+            "latin-name": "Asellia arabica",
+            "common-name": "Arabian trident bat"
+        },
+        {
+            "latin-name": "Asellia italosomalica",
+            "common-name": "Somalian trident bat"
+        },
+        {
+            "latin-name": "Asellia patrizii",
+            "common-name": "Patrizi's trident leaf-nosed bat"
+        },
+        {
+            "latin-name": "Asellia tridens",
+            "common-name": "Trident bat"
+        },
+        {
+            "latin-name": "Aselliscus dongbacana",
+            "common-name": "Dong Bac's trident bat"
+        },
+        {
+            "latin-name": "Aselliscus stoliczkanus",
+            "common-name": "Stoliczka's trident bat"
+        },
+        {
+            "latin-name": "Aselliscus tricuspidatus",
+            "common-name": "Temminck's trident bat"
+        },
+        {
+            "latin-name": "Baeodon alleni",
+            "common-name": "Allen's yellow bat"
+        },
+        {
+            "latin-name": "Balantiopteryx infusca",
+            "common-name": "Ecuadorian sac-winged bat"
+        },
+        {
+            "latin-name": "Balantiopteryx io",
+            "common-name": "Thomas's sac-winged bat"
+        },
+        {
+            "latin-name": "Balantiopteryx plicata",
+            "common-name": "Gray sac-winged bat"
+        },
+        {
+            "latin-name": "Balionycteris maculata",
+            "common-name": "Spotted-winged fruit bat"
+        },
+        {
+            "latin-name": "Barbastella barbastellus",
+            "common-name": "Western barbastelle"
+        },
+        {
+            "latin-name": "Barbastella beijingensis",
+            "common-name": "Beijing barbastelle"
+        },
+        {
+            "latin-name": "Barbastella leucomelas",
+            "common-name": "Eastern barbastelle"
+        },
+        {
+            "latin-name": "Bauerus dubiaquercus",
+            "common-name": "Van Gelder's bat"
+        },
+        {
+            "latin-name": "Boneia bidens",
+            "common-name": "Manado fruit bat"
+        },
+        {
+            "latin-name": "Brachyphylla cavernarum",
+            "common-name": "Antillean fruit-eating bat"
+        },
+        {
+            "latin-name": "Brachyphylla nana",
+            "common-name": "Cuban fruit-eating bat"
+        },
+        {
+            "latin-name": "Cardioderma cor",
+            "common-name": "Heart-nosed bat"
+        },
+        {
+            "latin-name": "Carollia benkeithi",
+            "common-name": "Benkeith's short-tailed bat"
+        },
+        {
+            "latin-name": "Carollia brevicauda",
+            "common-name": "Silky short-tailed bat"
+        },
+        {
+            "latin-name": "Carollia castanea",
+            "common-name": "Chestnut short-tailed bat"
+        },
+        {
+            "latin-name": "Carollia colombiana",
+            "common-name": "Silky short-tailed bat"
+        },
+        {
+            "latin-name": "Carollia manu",
+            "common-name": "Manu short-tailed bat"
+        },
+        {
+            "latin-name": "Carollia monohernandezi",
+            "common-name": "Mono's short-tailed bat"
+        },
+        {
+            "latin-name": "Carollia perspicillata",
+            "common-name": "Seba's short-tailed bat"
+        },
+        {
+            "latin-name": "Carollia sowelli",
+            "common-name": "Sowell's short-tailed bat"
+        },
+        {
+            "latin-name": "Carollia subrufa",
+            "common-name": "Gray short-tailed bat"
+        },
+        {
+            "latin-name": "Casinycteris argynnis",
+            "common-name": "Short-palated fruit bat"
+        },
+        {
+            "latin-name": "Casinycteris campomaanensis",
+            "common-name": "Campo-Ma\u2019an fruit bat"
+        },
+        {
+            "latin-name": "Casinycteris ophiodon",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Centronycteris centralis",
+            "common-name": "Thomas's shaggy bat"
+        },
+        {
+            "latin-name": "Centronycteris maximiliani",
+            "common-name": "Shaggy bat"
+        },
+        {
+            "latin-name": "Centurio senex",
+            "common-name": "Wrinkle-faced bat"
+        },
+        {
+            "latin-name": "Chaerephon aloysiisabaudiae",
+            "common-name": "Duke of Abruzzi's free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon ansorgei",
+            "common-name": "Ansorge's free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon atsinanana",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Chaerephon bemmeleni",
+            "common-name": "Gland-tailed free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon bivittatus",
+            "common-name": "Spotted free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon bregullae",
+            "common-name": "Fijian mastiff bat"
+        },
+        {
+            "latin-name": "Chaerephon chapini",
+            "common-name": "Chapin's free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon gallagheri",
+            "common-name": "Gallagher's free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon jobensis",
+            "common-name": "Northern freetail bat"
+        },
+        {
+            "latin-name": "Chaerephon jobimena",
+            "common-name": "Black and red free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon johorensis",
+            "common-name": "Northern free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon major",
+            "common-name": "Lappet-eared free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon nigeriae",
+            "common-name": "Nigerian free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon plicatus",
+            "common-name": "Wrinkle-lipped free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon pumilus",
+            "common-name": "Little free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon russatus",
+            "common-name": "Russet free-tailed bat"
+        },
+        {
+            "latin-name": "Chaerephon solomonis",
+            "common-name": "Solomons mastiff bat"
+        },
+        {
+            "latin-name": "Chaerephon tomensis",
+            "common-name": "S\u00e3o Tom\u00e9 free-tailed bat"
+        },
+        {
+            "latin-name": "Chalinolobus dwyeri",
+            "common-name": "Large-eared pied bat"
+        },
+        {
+            "latin-name": "Chalinolobus gouldii",
+            "common-name": "Gould's wattled bat"
+        },
+        {
+            "latin-name": "Chalinolobus morio",
+            "common-name": "Chocolate wattled bat"
+        },
+        {
+            "latin-name": "Chalinolobus neocaledonicus",
+            "common-name": "New Caledonia wattled bat"
+        },
+        {
+            "latin-name": "Chalinolobus nigrogriseus",
+            "common-name": "Hoary wattled bat"
+        },
+        {
+            "latin-name": "Chalinolobus picatus",
+            "common-name": "Little pied bat"
+        },
+        {
+            "latin-name": "Chalinolobus tuberculatus",
+            "common-name": "New Zealand long-tailed bat"
+        },
+        {
+            "latin-name": "Cheiromeles parvidens",
+            "common-name": "Lesser naked bat"
+        },
+        {
+            "latin-name": "Cheiromeles torquatus",
+            "common-name": "Hairless bat"
+        },
+        {
+            "latin-name": "Chilonatalus micropus",
+            "common-name": "Cuban funnel-eared bat"
+        },
+        {
+            "latin-name": "Chilonatalus tumidifrons",
+            "common-name": "Bahaman funnel-eared bat"
+        },
+        {
+            "latin-name": "Chiroderma doriae",
+            "common-name": "Brazilian big-eyed bat"
+        },
+        {
+            "latin-name": "Chiroderma improvisum",
+            "common-name": "Guadeloupe big-eyed bat"
+        },
+        {
+            "latin-name": "Chiroderma salvini",
+            "common-name": "Salvin's big-eyed bat"
+        },
+        {
+            "latin-name": "Chiroderma trinitatum",
+            "common-name": "Little big-eyed bat"
+        },
+        {
+            "latin-name": "Chiroderma villosum",
+            "common-name": "Hairy big-eyed bat"
+        },
+        {
+            "latin-name": "Chiroderma vizottoi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Chironax melanocephalus",
+            "common-name": "Black-capped fruit bat"
+        },
+        {
+            "latin-name": "Choeroniscus godmani",
+            "common-name": "Godman's long-tailed bat"
+        },
+        {
+            "latin-name": "Choeroniscus intermedius",
+            "common-name": "Intermediate long-tailed bat"
+        },
+        {
+            "latin-name": "Choeroniscus minor",
+            "common-name": "Minor long-nosed long-tongued bat"
+        },
+        {
+            "latin-name": "Choeroniscus periosus",
+            "common-name": "Greater long-tailed bat"
+        },
+        {
+            "latin-name": "Choeronycteris mexicana",
+            "common-name": "Mexican long-tongued bat"
+        },
+        {
+            "latin-name": "Chrotopterus auritus",
+            "common-name": "Big-eared woolly bat"
+        },
+        {
+            "latin-name": "Cistugo lesueuri",
+            "common-name": "Lesueur's hairy bat"
+        },
+        {
+            "latin-name": "Cistugo seabrai",
+            "common-name": "Angolan hairy bat"
+        },
+        {
+            "latin-name": "Cloeotis percivali",
+            "common-name": "Percival's trident bat"
+        },
+        {
+            "latin-name": "Coelops frithii",
+            "common-name": "East Asian tailless leaf-nosed bat"
+        },
+        {
+            "latin-name": "Coelops robinsoni",
+            "common-name": "Malayan tailless leaf-nosed bat"
+        },
+        {
+            "latin-name": "Coleura afra",
+            "common-name": "African sheath-tailed bat"
+        },
+        {
+            "latin-name": "Coleura kibomalandy",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Coleura seychellensis",
+            "common-name": "Seychelles sheath-tailed bat"
+        },
+        {
+            "latin-name": "Cormura brevirostris",
+            "common-name": "Chestnut sac-winged bat"
+        },
+        {
+            "latin-name": "Corynorhinus mexicanus",
+            "common-name": "Mexican big-eared bat"
+        },
+        {
+            "latin-name": "Corynorhinus rafinesqii",
+            "common-name": "Rafinesque's big-eared bat"
+        },
+        {
+            "latin-name": "Corynorhinus townsendii",
+            "common-name": "Townsend's big-eared bat"
+        },
+        {
+            "latin-name": "Craseonycteris thonglongyai",
+            "common-name": "Kitti's hog-nosed bat"
+        },
+        {
+            "latin-name": "Cynomops abrasus",
+            "common-name": "Cinnamon dog-faced bat"
+        },
+        {
+            "latin-name": "Cynomops greenhalli",
+            "common-name": "Greenhall's dog-faced bat"
+        },
+        {
+            "latin-name": "Cynomops mexicanus",
+            "common-name": "Mexican dog-faced bat"
+        },
+        {
+            "latin-name": "Cynomops milleri",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Cynomops paranus",
+            "common-name": "Para dog-faced bat"
+        },
+        {
+            "latin-name": "Cynomops planirostris",
+            "common-name": "Southern dog-faced bat"
+        },
+        {
+            "latin-name": "Cynopterus brachyotis",
+            "common-name": "Lesser short-nosed fruit bat"
+        },
+        {
+            "latin-name": "Cynopterus horsfieldii",
+            "common-name": "Horsfield's fruit bat"
+        },
+        {
+            "latin-name": "Cynopterus luzoniensis",
+            "common-name": "Peters's fruit bat"
+        },
+        {
+            "latin-name": "Cynopterus minutus",
+            "common-name": "Minute fruit bat"
+        },
+        {
+            "latin-name": "Cynopterus nusatenggara",
+            "common-name": "Nusatenggara short-nosed fruit bat"
+        },
+        {
+            "latin-name": "Cynopterus sphinx",
+            "common-name": "Greater short-nosed fruit bat"
+        },
+        {
+            "latin-name": "Cynopterus titthaecheilus",
+            "common-name": "Indonesian short-nosed fruit bat"
+        },
+        {
+            "latin-name": "Cyttarops alecto",
+            "common-name": "Short-eared bat"
+        },
+        {
+            "latin-name": "Dermanura anderseni",
+            "common-name": "Andersen's fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura azteca",
+            "common-name": "Aztec fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura bogotensis",
+            "common-name": "Bogota fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura cinerea",
+            "common-name": "Gervais's fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura glauca",
+            "common-name": "Silver fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura gnoma",
+            "common-name": "Gnome fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura phaeotis",
+            "common-name": "Pygmy fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura rava",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Dermanura rosenbergi",
+            "common-name": "Rosenberg's fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura tolteca",
+            "common-name": "Toltec fruit-eating bat"
+        },
+        {
+            "latin-name": "Dermanura watsoni",
+            "common-name": "Thomas's fruit-eating bat"
+        },
+        {
+            "latin-name": "Desmalopex leucopterus",
+            "common-name": "White-winged flying fox"
+        },
+        {
+            "latin-name": "Desmalopex microleucopterus",
+            "common-name": "Small white-winged flying fox"
+        },
+        {
+            "latin-name": "Desmodus rotundus",
+            "common-name": "Common vampire bat"
+        },
+        {
+            "latin-name": "Diaemus youngi",
+            "common-name": "White-winged vampire bat"
+        },
+        {
+            "latin-name": "Diclidurus albus",
+            "common-name": "Northern ghost bat"
+        },
+        {
+            "latin-name": "Diclidurus ingens",
+            "common-name": "Greater ghost bat"
+        },
+        {
+            "latin-name": "Diclidurus isabella",
+            "common-name": "Isabelle's ghost bat"
+        },
+        {
+            "latin-name": "Diclidurus scutatus",
+            "common-name": "Lesser ghost bat"
+        },
+        {
+            "latin-name": "Diphylla ecaudata",
+            "common-name": "Hairy-legged vampire bat"
+        },
+        {
+            "latin-name": "Dobsonia anderseni",
+            "common-name": "Andersen's naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia beauforti",
+            "common-name": "Beaufort's naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia chapmani",
+            "common-name": "Negros naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia crenulata",
+            "common-name": "Halmahera naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia emersa",
+            "common-name": "Biak naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia exoleta",
+            "common-name": "Sulawesi naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia inermis",
+            "common-name": "Solomon's naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia minor",
+            "common-name": "Lesser naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia moluccensis",
+            "common-name": "Moluccan naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia pannietensis",
+            "common-name": "Panniet naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia peronii",
+            "common-name": "Western naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia praedatrix",
+            "common-name": "New Britain naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Dobsonia viridis",
+            "common-name": "Greenish naked-backed fruit bat"
+        },
+        {
+            "latin-name": "Doryrhina cyclops",
+            "common-name": "Cyclops roundleaf bat"
+        },
+        {
+            "latin-name": "Dyacopterus brooksi",
+            "common-name": "Brooks's dyak fruit bat"
+        },
+        {
+            "latin-name": "Dyacopterus rickarti",
+            "common-name": "Rickart's dyak fruit bat"
+        },
+        {
+            "latin-name": "Dyacopterus spadiceus",
+            "common-name": "Dayak fruit bat"
+        },
+        {
+            "latin-name": "Ectophylla alba",
+            "common-name": "Honduran white bat"
+        },
+        {
+            "latin-name": "Eidolon dupreanum",
+            "common-name": "Madagascan fruit bat"
+        },
+        {
+            "latin-name": "Eidolon helvum",
+            "common-name": "Straw-coloured fruit bat"
+        },
+        {
+            "latin-name": "Emballonura alecto",
+            "common-name": "Small Asian sheath-tailed bat"
+        },
+        {
+            "latin-name": "Emballonura beccarii",
+            "common-name": "Beccari's sheath-tailed bat"
+        },
+        {
+            "latin-name": "Emballonura dianae",
+            "common-name": "Large-eared sheath-tailed bat"
+        },
+        {
+            "latin-name": "Emballonura furax",
+            "common-name": "Greater sheath-tailed bat"
+        },
+        {
+            "latin-name": "Emballonura monticola",
+            "common-name": "Lesser sheath-tailed bat"
+        },
+        {
+            "latin-name": "Emballonura raffrayana",
+            "common-name": "Raffray's sheath-tailed bat"
+        },
+        {
+            "latin-name": "Emballonura semicaudata",
+            "common-name": "Pacific sheath-tailed bat"
+        },
+        {
+            "latin-name": "Emballonura serii",
+            "common-name": "Seri's sheath-tailed bat"
+        },
+        {
+            "latin-name": "Eonycteris major",
+            "common-name": "Greater dawn bat"
+        },
+        {
+            "latin-name": "Eonycteris robusta",
+            "common-name": "Philippine dawn bat"
+        },
+        {
+            "latin-name": "Eonycteris spelaea",
+            "common-name": "Lesser dawn bat"
+        },
+        {
+            "latin-name": "Epomophorus angolensis",
+            "common-name": "Angolan epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus anselli",
+            "common-name": "Ansell's epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus crypturus",
+            "common-name": "Peters's epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus dobsonii",
+            "common-name": "Dobson's epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus gambianus",
+            "common-name": "Gambian epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus grandis",
+            "common-name": "Lesser Angolan epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus labiatus",
+            "common-name": "Ethiopian epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus minimus",
+            "common-name": "East African epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus minor",
+            "common-name": "Minor epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomophorus wahlbergi",
+            "common-name": "Wahlberg's epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomops buettikoferi",
+            "common-name": "Buettikofer's epauletted fruit bat"
+        },
+        {
+            "latin-name": "Epomops franqueti",
+            "common-name": "Franquet's epauletted fruit bat"
+        },
+        {
+            "latin-name": "Eptesicus andinus",
+            "common-name": "Little black serotine"
+        },
+        {
+            "latin-name": "Eptesicus bobrinskoi",
+            "common-name": "Bobrinski's serotine"
+        },
+        {
+            "latin-name": "Eptesicus bottae",
+            "common-name": "Botta's serotine"
+        },
+        {
+            "latin-name": "Eptesicus brasiliensis",
+            "common-name": "Brazilian brown bat"
+        },
+        {
+            "latin-name": "Eptesicus chiriquinus",
+            "common-name": "Chiriquinan serotine"
+        },
+        {
+            "latin-name": "Eptesicus diminutus",
+            "common-name": "Diminutive serotine"
+        },
+        {
+            "latin-name": "Eptesicus dimissus",
+            "common-name": "Surat serotine"
+        },
+        {
+            "latin-name": "Eptesicus floweri",
+            "common-name": "Horn-skinned bat"
+        },
+        {
+            "latin-name": "Eptesicus furinalis",
+            "common-name": "Argentine brown bat"
+        },
+        {
+            "latin-name": "Eptesicus fuscus",
+            "common-name": "Big brown bat"
+        },
+        {
+            "latin-name": "Eptesicus gobiensis",
+            "common-name": "Gobi big brown bat"
+        },
+        {
+            "latin-name": "Eptesicus guadeloupensis",
+            "common-name": "Guadeloupe big brown bat"
+        },
+        {
+            "latin-name": "Eptesicus hottentotus",
+            "common-name": "Long-tailed house bat"
+        },
+        {
+            "latin-name": "Eptesicus innoxius",
+            "common-name": "Harmless serotine"
+        },
+        {
+            "latin-name": "Eptesicus isabellinus",
+            "common-name": "Meridional serotine"
+        },
+        {
+            "latin-name": "Eptesicus japonensis",
+            "common-name": "Japanese short-tailed bat"
+        },
+        {
+            "latin-name": "Eptesicus kobayashii",
+            "common-name": "Kobayashi's bat"
+        },
+        {
+            "latin-name": "Eptesicus nasutus",
+            "common-name": "Sind bat"
+        },
+        {
+            "latin-name": "Eptesicus nilssonii",
+            "common-name": "Northern bat"
+        },
+        {
+            "latin-name": "Eptesicus pachyotis",
+            "common-name": "Thick-eared bat"
+        },
+        {
+            "latin-name": "Eptesicus platyops",
+            "common-name": "Lagos serotine"
+        },
+        {
+            "latin-name": "Eptesicus serotinus",
+            "common-name": "Serotine bat"
+        },
+        {
+            "latin-name": "Eptesicus taddeii",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Eptesicus tatei",
+            "common-name": "Sombre bat"
+        },
+        {
+            "latin-name": "Erophylla sezekorni",
+            "common-name": "Buffy flower bat"
+        },
+        {
+            "latin-name": "Euderma maculatum",
+            "common-name": "Spotted bat"
+        },
+        {
+            "latin-name": "Eudiscopus denticulus",
+            "common-name": "Disk-footed bat"
+        },
+        {
+            "latin-name": "Eumops auripendulus",
+            "common-name": "Black bonneted bat"
+        },
+        {
+            "latin-name": "Eumops bonariensis",
+            "common-name": "Dwarf bonneted bat"
+        },
+        {
+            "latin-name": "Eumops dabbenei",
+            "common-name": "Big bonneted bat"
+        },
+        {
+            "latin-name": "Eumops delticus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Eumops floridanus",
+            "common-name": "Florida bonneted bat"
+        },
+        {
+            "latin-name": "Eumops glaucinus",
+            "common-name": "Wagner's bonneted bat"
+        },
+        {
+            "latin-name": "Eumops hansae",
+            "common-name": "Sanborn's bonneted bat"
+        },
+        {
+            "latin-name": "Eumops maurus",
+            "common-name": "Guianan bonneted bat"
+        },
+        {
+            "latin-name": "Eumops nanus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Eumops patagonicus",
+            "common-name": "Patagonian bonneted bat"
+        },
+        {
+            "latin-name": "Eumops perotis",
+            "common-name": "Western mastiff bat"
+        },
+        {
+            "latin-name": "Eumops trumbulli",
+            "common-name": "Colombian bonneted bat"
+        },
+        {
+            "latin-name": "Eumops underwoodi",
+            "common-name": "Underwood's bonneted bat"
+        },
+        {
+            "latin-name": "Falsistrellus affinis",
+            "common-name": "Chocolate pipistrelle"
+        },
+        {
+            "latin-name": "Falsistrellus mackenziei",
+            "common-name": "Western false pipistrelle"
+        },
+        {
+            "latin-name": "Falsistrellus mordax",
+            "common-name": "Pungent pipistrelle"
+        },
+        {
+            "latin-name": "Falsistrellus petersi",
+            "common-name": "Peters's pipistrelle"
+        },
+        {
+            "latin-name": "Falsistrellus tasmaniensis",
+            "common-name": "Eastern false pipistrelle"
+        },
+        {
+            "latin-name": "Furipterus horrens",
+            "common-name": "Thumbless bat"
+        },
+        {
+            "latin-name": "Genus Niumbaha",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Genus Rhogeessa",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Glauconycteris alboguttata",
+            "common-name": "Allen's striped bat"
+        },
+        {
+            "latin-name": "Glauconycteris argentata",
+            "common-name": "Silvered bat"
+        },
+        {
+            "latin-name": "Glauconycteris beatrix",
+            "common-name": "Beatrix's bat"
+        },
+        {
+            "latin-name": "Glauconycteris curryae",
+            "common-name": "Curry's bat"
+        },
+        {
+            "latin-name": "Glauconycteris egeria",
+            "common-name": "Bibundi bat"
+        },
+        {
+            "latin-name": "Glauconycteris gleni",
+            "common-name": "Glen's wattled bat"
+        },
+        {
+            "latin-name": "Glauconycteris humeralis",
+            "common-name": "Allen's spotted bat"
+        },
+        {
+            "latin-name": "Glauconycteris kenyacola",
+            "common-name": "Kenyan wattled bat"
+        },
+        {
+            "latin-name": "Glauconycteris machadoi",
+            "common-name": "Machado's butterfly bat"
+        },
+        {
+            "latin-name": "Glauconycteris poensis",
+            "common-name": "Abo bat"
+        },
+        {
+            "latin-name": "Glauconycteris variegata",
+            "common-name": "Butterfly bat"
+        },
+        {
+            "latin-name": "Glischropus javanus",
+            "common-name": "Javan thick-thumbed bat"
+        },
+        {
+            "latin-name": "Glischropus tylopus",
+            "common-name": "Common thick-thumbed bat"
+        },
+        {
+            "latin-name": "Glossophaga commissarisi",
+            "common-name": "Commissaris's long-tongued bat"
+        },
+        {
+            "latin-name": "Glossophaga longirostris",
+            "common-name": "Miller's long-tongued bat"
+        },
+        {
+            "latin-name": "Glossophaga soricina",
+            "common-name": "Pallas's long-tongued bat"
+        },
+        {
+            "latin-name": "Grandidier's trident bat Paratriaenops auritus",
+            "common-name": "Grandidier's trident bat Paratriaenops auritu"
+        },
+        {
+            "latin-name": "Haplonycteris fischeri",
+            "common-name": "Philippine pygmy fruit bat"
+        },
+        {
+            "latin-name": "Harpiocephalus harpia",
+            "common-name": "Hairy-winged bat"
+        },
+        {
+            "latin-name": "Harpiola grisea",
+            "common-name": "Peter's tube-nosed bat"
+        },
+        {
+            "latin-name": "Harpiola isodon",
+            "common-name": "Taiwan tube-nosed bat"
+        },
+        {
+            "latin-name": "Harpyionycteris celebensis",
+            "common-name": "Sulawesi harpy fruit bat"
+        },
+        {
+            "latin-name": "Harpyionycteris whiteheadi",
+            "common-name": "Harpy fruit bat"
+        },
+        {
+            "latin-name": "Hesperoptenus blanfordi",
+            "common-name": "Blanford's bat"
+        },
+        {
+            "latin-name": "Hesperoptenus doriae",
+            "common-name": "False serotine bat"
+        },
+        {
+            "latin-name": "Hesperoptenus gaskelli",
+            "common-name": "Gaskell's false serotine"
+        },
+        {
+            "latin-name": "Hesperoptenus tickelli",
+            "common-name": "Tickell's bat"
+        },
+        {
+            "latin-name": "Hesperoptenus tomesi",
+            "common-name": "Large false serotine"
+        },
+        {
+            "latin-name": "Hipposideros abae",
+            "common-name": "Aba roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros alongensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros armiger",
+            "common-name": "Great roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros ater",
+            "common-name": "Dusky leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros atrox",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros beatus",
+            "common-name": "Benito roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros bicolor",
+            "common-name": "Bicolored roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros boeadii",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros breviceps",
+            "common-name": "Short-headed roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros caffer",
+            "common-name": "Sundevall's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros calcaratus",
+            "common-name": "Spurred roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros camerunensis",
+            "common-name": "Greater roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros cervinus",
+            "common-name": "Fawn leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros cineraceus",
+            "common-name": "Ashy roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros coronatus",
+            "common-name": "Large Mindanao roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros corynophyllus",
+            "common-name": "Telefomin roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros coxi",
+            "common-name": "Cox's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros crumeniferus",
+            "common-name": "Timor roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros curtus",
+            "common-name": "Short-tailed roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros demissus",
+            "common-name": "Makira roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros diadema",
+            "common-name": "Diadem roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros dinops",
+            "common-name": "Fierce roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros doriae",
+            "common-name": "Borneo roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros durgadasi",
+            "common-name": "Khajuria's leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros dyacorum",
+            "common-name": "Dayak roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros edwardshilli",
+            "common-name": "Hill's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros einnaythu",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros fasensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros fuliginosus",
+            "common-name": "Sooty roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros fulvus",
+            "common-name": "Fulvus roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros galeritus",
+            "common-name": "Cantor's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros grandis",
+            "common-name": "Grand roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros griffini",
+            "common-name": "Griffin's leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros halophyllus",
+            "common-name": "Thailand roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros hypophyllus",
+            "common-name": "Kolar leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros inexpectatus",
+            "common-name": "Crested roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros inordinatus",
+            "common-name": "Arnhem leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros jonesi",
+            "common-name": "Jones's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros khaokhouayensis",
+            "common-name": "Phou Khao Khouay leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros khasiana",
+            "common-name": "Khasian leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros lamottei",
+            "common-name": "Lamotte's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros lankadiva",
+            "common-name": "Indian roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros larvatus",
+            "common-name": "Intermediate roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros lekaguli",
+            "common-name": "Large Asian roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros lylei",
+            "common-name": "Shield-faced roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros macrobullatus",
+            "common-name": "Big-eared roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros madurae",
+            "common-name": "Maduran leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros maggietaylorae",
+            "common-name": "Maggie Taylor's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros marisae",
+            "common-name": "Aellen's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros megalotis",
+            "common-name": "Ethiopian large-eared roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros muscinus",
+            "common-name": "Fly River roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros nequam",
+            "common-name": "Malayan roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros nicobarulae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros obscurus",
+            "common-name": "Philippine forest roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros orbiculus",
+            "common-name": "Orbiculus leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros papua",
+            "common-name": "Biak roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros parnabyi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros pelingensis",
+            "common-name": "Peleng leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros pendleburyi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros pomona",
+            "common-name": "Pomona roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros pratti",
+            "common-name": "Pratt's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros pygmaeus",
+            "common-name": "Philippine pygmy roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros ridleyi",
+            "common-name": "Ridley's leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros rotalis",
+            "common-name": "Laotian leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros ruber",
+            "common-name": "Noack's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros scutinares",
+            "common-name": "Shield-nosed leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros semoni",
+            "common-name": "Semon's roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros sorenseni",
+            "common-name": "Sorensen's leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros speoris",
+            "common-name": "Schneider's leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros stenotis",
+            "common-name": "Northern leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros sumbae",
+            "common-name": "Sumba roundleaf bat"
+        },
+        {
+            "latin-name": "Hipposideros tephrus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hipposideros turpis",
+            "common-name": "Lesser great leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros vittatus",
+            "common-name": "Striped leaf-nosed bat"
+        },
+        {
+            "latin-name": "Hipposideros wollastoni",
+            "common-name": "Wollaston's roundleaf bat"
+        },
+        {
+            "latin-name": "Histiotus alienus",
+            "common-name": "Strange big-eared brown bat"
+        },
+        {
+            "latin-name": "Histiotus humboldti",
+            "common-name": "Humboldt big-eared brown bat"
+        },
+        {
+            "latin-name": "Histiotus laephotis",
+            "common-name": "Thomas's big-eared brown bat"
+        },
+        {
+            "latin-name": "Histiotus macrotus",
+            "common-name": "Big-eared brown bat"
+        },
+        {
+            "latin-name": "Histiotus magellanicus",
+            "common-name": "Southern big-eared brown bat"
+        },
+        {
+            "latin-name": "Histiotus montanus",
+            "common-name": "Small big-eared brown bat"
+        },
+        {
+            "latin-name": "Histiotus velatus",
+            "common-name": "Tropical big-eared brown bat"
+        },
+        {
+            "latin-name": "Hylonycteris underwoodi",
+            "common-name": "Underwood's long-tongued bat"
+        },
+        {
+            "latin-name": "Hypsignathus monstrosus",
+            "common-name": "Hammer-headed bat"
+        },
+        {
+            "latin-name": "Hypsugo alaschanicus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hypsugo anchietae",
+            "common-name": "Anchieta's pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo anthonyi",
+            "common-name": "Anthony's pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo arabicus",
+            "common-name": "Arabian pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo ariel",
+            "common-name": "Desert pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo bemainty",
+            "common-name": "Dark Madagascar pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo cadornae",
+            "common-name": "Cadorna's pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo crassulus",
+            "common-name": "Broad-headed pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo dolichodon",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hypsugo eisentrauti",
+            "common-name": "Eisentraut's pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo imbricatus",
+            "common-name": "Brown pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo joffrei",
+            "common-name": "Joffre's pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo kitcheneri",
+            "common-name": "Red-brown pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo lanzai",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Hypsugo lophurus",
+            "common-name": "Burma pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo macrotis",
+            "common-name": "Big-eared pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo musciculus",
+            "common-name": "Mouselike pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo pulveratus",
+            "common-name": "Chinese pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo savii",
+            "common-name": "Savi's pipistrelle"
+        },
+        {
+            "latin-name": "Hypsugo vordermanni",
+            "common-name": "Vordermann's pipistrelle"
+        },
+        {
+            "latin-name": "Ia io",
+            "common-name": "Great evening bat"
+        },
+        {
+            "latin-name": "Idionycteris phyllotis",
+            "common-name": "Allen's big-eared bat"
+        },
+        {
+            "latin-name": "Kerivoula africana",
+            "common-name": "Tanzanian woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula agnella",
+            "common-name": "St. Aignan's trumpet-eared bat"
+        },
+        {
+            "latin-name": "Kerivoula argentata",
+            "common-name": "Damara woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula cuprosa",
+            "common-name": "Copper woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula eriophora",
+            "common-name": "Ethiopian woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula flora",
+            "common-name": "Flores woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula hardwickii",
+            "common-name": "Hardwicke's woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula intermedia",
+            "common-name": "Small woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula lanosa",
+            "common-name": "Lesser woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula lenis",
+            "common-name": "Lenis woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula minuta",
+            "common-name": "Least woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula muscina",
+            "common-name": "Fly River trumpet-eared bat"
+        },
+        {
+            "latin-name": "Kerivoula myrella",
+            "common-name": "Bismarck's trumpet-eared bat"
+        },
+        {
+            "latin-name": "Kerivoula papillosa",
+            "common-name": "Papillose woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula pellucida",
+            "common-name": "Clear-winged woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula phalaena",
+            "common-name": "Spurrell's woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula picta",
+            "common-name": "Painted bat"
+        },
+        {
+            "latin-name": "Kerivoula smithii",
+            "common-name": "Smith's woolly bat"
+        },
+        {
+            "latin-name": "Kerivoula whiteheadi",
+            "common-name": "Whitehead's woolly bat"
+        },
+        {
+            "latin-name": "Laephotis angolensis",
+            "common-name": "Angolan long-eared bat"
+        },
+        {
+            "latin-name": "Laephotis botswanae",
+            "common-name": "Botswanan long-eared bat"
+        },
+        {
+            "latin-name": "Laephotis namibensis",
+            "common-name": "Namib long-eared bat"
+        },
+        {
+            "latin-name": "Laephotis wintoni",
+            "common-name": "De Winton's long-eared bat"
+        },
+        {
+            "latin-name": "Lasionycteris noctivagans",
+            "common-name": "Silver-haired bat"
+        },
+        {
+            "latin-name": "Lasiurus atratus",
+            "common-name": "Greater red bat"
+        },
+        {
+            "latin-name": "Lasiurus blossevillii",
+            "common-name": "Desert red bat"
+        },
+        {
+            "latin-name": "Lasiurus borealis",
+            "common-name": "Eastern red bat"
+        },
+        {
+            "latin-name": "Lasiurus castaneus",
+            "common-name": "Tacarcuna bat"
+        },
+        {
+            "latin-name": "Lasiurus cinereus",
+            "common-name": "Hoary bat"
+        },
+        {
+            "latin-name": "Lasiurus cinereus semotus",
+            "common-name": "Hawaiian hoary bat"
+        },
+        {
+            "latin-name": "Lasiurus degelidus",
+            "common-name": "Jamaican red bat"
+        },
+        {
+            "latin-name": "Lasiurus ebenus",
+            "common-name": "Hairy-tailed bat"
+        },
+        {
+            "latin-name": "Lasiurus ega",
+            "common-name": "Southern yellow bat"
+        },
+        {
+            "latin-name": "Lasiurus egregius",
+            "common-name": "Big red bat"
+        },
+        {
+            "latin-name": "Lasiurus insularis",
+            "common-name": "Cuban yellow bat"
+        },
+        {
+            "latin-name": "Lasiurus intermedius",
+            "common-name": "Northern yellow bat"
+        },
+        {
+            "latin-name": "Lasiurus minor",
+            "common-name": "Minor red bat"
+        },
+        {
+            "latin-name": "Lasiurus pfeifferi",
+            "common-name": "Pfeiffer's red bat"
+        },
+        {
+            "latin-name": "Lasiurus salinae",
+            "common-name": "Saline red bat"
+        },
+        {
+            "latin-name": "Lasiurus seminolus",
+            "common-name": "Seminole bat"
+        },
+        {
+            "latin-name": "Lasiurus varius",
+            "common-name": "Cinnamon red bat"
+        },
+        {
+            "latin-name": "Lasiurus xanthinus",
+            "common-name": "Western yellow bat"
+        },
+        {
+            "latin-name": "Latidens salimalii",
+            "common-name": "Salim Ali's fruit bat"
+        },
+        {
+            "latin-name": "Lavia frons",
+            "common-name": "Yellow-winged bat"
+        },
+        {
+            "latin-name": "Leptonycteris curasoae",
+            "common-name": "Southern long-nosed bat"
+        },
+        {
+            "latin-name": "Leptonycteris nivalis",
+            "common-name": "Greater long-nosed bat"
+        },
+        {
+            "latin-name": "Leptonycteris yerbabuenae",
+            "common-name": "Lesser long-nosed bat"
+        },
+        {
+            "latin-name": "Lichonycteris obscura",
+            "common-name": "Dark long-tongued bat"
+        },
+        {
+            "latin-name": "Lionycteris spurrelli",
+            "common-name": "Chestnut long-tongued bat"
+        },
+        {
+            "latin-name": "Lonchophylla bokermanni",
+            "common-name": "Bokermann's nectar bat"
+        },
+        {
+            "latin-name": "Lonchophylla cadenai",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Lonchophylla dekeyseri",
+            "common-name": "Dekeyser's nectar bat"
+        },
+        {
+            "latin-name": "Lonchophylla handleyi",
+            "common-name": "Handley's nectar bat"
+        },
+        {
+            "latin-name": "Lonchophylla hesperia",
+            "common-name": "Western nectar bat"
+        },
+        {
+            "latin-name": "Lonchophylla mordax",
+            "common-name": "Goldman's nectar bat"
+        },
+        {
+            "latin-name": "Lonchophylla orcesi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Lonchophylla orienticollina",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Lonchophylla pattoni",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Lonchophylla robusta",
+            "common-name": "Orange nectar bat"
+        },
+        {
+            "latin-name": "Lonchophylla thomasi",
+            "common-name": "Thomas's nectar bat"
+        },
+        {
+            "latin-name": "Lonchorhina aurita",
+            "common-name": "Tomes's sword-nosed bat"
+        },
+        {
+            "latin-name": "Lonchorhina inusitata",
+            "common-name": "Northern sword-nosed bat"
+        },
+        {
+            "latin-name": "Lonchorhina marinkellei",
+            "common-name": "Marinkelle's sword-nosed bat"
+        },
+        {
+            "latin-name": "Lophostoma brasiliense",
+            "common-name": "Pygmy round-eared bat"
+        },
+        {
+            "latin-name": "Lophostoma carrikeri",
+            "common-name": "Carriker's round-eared bat"
+        },
+        {
+            "latin-name": "Lophostoma evotis",
+            "common-name": "Davis's round-eared bat"
+        },
+        {
+            "latin-name": "Lophostoma kalkoae",
+            "common-name": "Kalko's round-eared bat"
+        },
+        {
+            "latin-name": "Lophostoma occidentalis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Lophostoma schulzi",
+            "common-name": "Schultz's round-eared bat"
+        },
+        {
+            "latin-name": "Lophostoma silvicolum",
+            "common-name": "White-throated round-eared bat"
+        },
+        {
+            "latin-name": "Lophostoma yasuni",
+            "common-name": "Yasuni round-eared bat"
+        },
+        {
+            "latin-name": "Macroderma gigas",
+            "common-name": "Ghost bat"
+        },
+        {
+            "latin-name": "Macroglossus minimus",
+            "common-name": "Long-tongued nectar bat"
+        },
+        {
+            "latin-name": "Macroglossus sobrinus",
+            "common-name": "Long-tongued fruit bat"
+        },
+        {
+            "latin-name": "Macronycteris commersoni",
+            "common-name": "Commerson's roundleaf bat"
+        },
+        {
+            "latin-name": "Macronycteris gigas",
+            "common-name": "Giant roundleaf bat"
+        },
+        {
+            "latin-name": "Macronycteris thomensis",
+            "common-name": "Sa\u00f5 Tom\u00e9 leaf-nosed bat"
+        },
+        {
+            "latin-name": "Macrophyllum macrophyllum",
+            "common-name": "Long-legged bat"
+        },
+        {
+            "latin-name": "Macrotus californicus",
+            "common-name": "California leaf-nosed bat"
+        },
+        {
+            "latin-name": "Macrotus waterhousii",
+            "common-name": "Waterhouse's leaf-nosed bat"
+        },
+        {
+            "latin-name": "Megaderma lyra",
+            "common-name": "Greater false vampire bat"
+        },
+        {
+            "latin-name": "Megaderma spasma",
+            "common-name": "Lesser false vampire bat"
+        },
+        {
+            "latin-name": "Megaerops ecaudatus",
+            "common-name": "Tailless fruit bat"
+        },
+        {
+            "latin-name": "Megaerops kusnotoi",
+            "common-name": "Javan tailless fruit bat"
+        },
+        {
+            "latin-name": "Megaerops niphanae",
+            "common-name": "Ratanaworabhan's fruit bat"
+        },
+        {
+            "latin-name": "Megaerops wetmorei",
+            "common-name": "White-collared fruit bat"
+        },
+        {
+            "latin-name": "Megaloglossus azagny",
+            "common-name": "Azagnyi fruit bat"
+        },
+        {
+            "latin-name": "Megaloglossus woermanni",
+            "common-name": "Woermann's bat"
+        },
+        {
+            "latin-name": "Melonycteris fardoulisi",
+            "common-name": "Fardoulis' blossom bat"
+        },
+        {
+            "latin-name": "Melonycteris melanops",
+            "common-name": "Black-bellied fruit bat"
+        },
+        {
+            "latin-name": "Melonycteris woodfordi",
+            "common-name": "Woodford's fruit bat"
+        },
+        {
+            "latin-name": "Mesophylla macconnelli",
+            "common-name": "MacConnell's bat"
+        },
+        {
+            "latin-name": "Micronycteris behnii",
+            "common-name": "Behn's bat"
+        },
+        {
+            "latin-name": "Micronycteris brosseti",
+            "common-name": "Brosset's big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris giovanniae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Micronycteris hirsuta",
+            "common-name": "Hairy big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris homezi",
+            "common-name": "White-bellied big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris matses",
+            "common-name": "Matses' big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris megalotis",
+            "common-name": "Little big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris microtis",
+            "common-name": "Common big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris minuta",
+            "common-name": "White-bellied big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris sanborni",
+            "common-name": "Sanborn's big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris schmidtorum",
+            "common-name": "Schmidts's big-eared bat"
+        },
+        {
+            "latin-name": "Micronycteris yatesi",
+            "common-name": "Yates's big-eared bat"
+        },
+        {
+            "latin-name": "Micropteropus intermedius",
+            "common-name": "Hayman's dwarf epauletted fruit bat"
+        },
+        {
+            "latin-name": "Micropteropus pusillus",
+            "common-name": "Peters's dwarf epauletted fruit bat"
+        },
+        {
+            "latin-name": "Mimetillus moloneyi",
+            "common-name": "Moloney's mimic bat"
+        },
+        {
+            "latin-name": "Mimon bennettii",
+            "common-name": "Golden bat"
+        },
+        {
+            "latin-name": "Mimon cozumelae",
+            "common-name": "Cozumelan golden bat"
+        },
+        {
+            "latin-name": "Mimon crenulatum",
+            "common-name": "Striped hairy-nosed bat"
+        },
+        {
+            "latin-name": "Mimon koepckeae",
+            "common-name": "Koepcke's hairy-nosed bat"
+        },
+        {
+            "latin-name": "Miniopterus aelleni",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus africanus",
+            "common-name": "African long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus ambohitrensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus australis",
+            "common-name": "Little bent-wing bat"
+        },
+        {
+            "latin-name": "Miniopterus brachytragos",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus egeri",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus fraterculus",
+            "common-name": "Lesser long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus fuscus",
+            "common-name": "Southeast Asian long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus gleni",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus griffithsi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus griveaudi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus inflatus",
+            "common-name": "Greater long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus macrocneme",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus maghrebensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus magnater",
+            "common-name": "Western bent-winged bat"
+        },
+        {
+            "latin-name": "Miniopterus mahafaliensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus majori",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus manavi",
+            "common-name": "Manavi long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus medius",
+            "common-name": "Intermediate long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus minor",
+            "common-name": "Least long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus natalensis",
+            "common-name": "Natal long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus newtoni",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus petersoni",
+            "common-name": "Peterson's long-fingered bat"
+        },
+        {
+            "latin-name": "Miniopterus pusillus",
+            "common-name": "Small bent-winged bat"
+        },
+        {
+            "latin-name": "Miniopterus robustior",
+            "common-name": "Loyalty bent-winged bat"
+        },
+        {
+            "latin-name": "Miniopterus schreibersii",
+            "common-name": "Common bent-wing bat"
+        },
+        {
+            "latin-name": "Miniopterus shortridgei",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus sororculus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Miniopterus tristis",
+            "common-name": "Great bent-winged bat"
+        },
+        {
+            "latin-name": "Minopterus paululus",
+            "common-name": "Philippine long-fingered bat"
+        },
+        {
+            "latin-name": "Mirimiri acrodonta",
+            "common-name": "Fijian monkey-faced bat"
+        },
+        {
+            "latin-name": "Molossops aequatorianus",
+            "common-name": "Equatorial dog-faced bat"
+        },
+        {
+            "latin-name": "Molossops mattogrossensis",
+            "common-name": "Mato Grosso dog-faced bat"
+        },
+        {
+            "latin-name": "Molossops neglectus",
+            "common-name": "Rufous dog-faced bat"
+        },
+        {
+            "latin-name": "Molossops temminckii",
+            "common-name": "Dwarf dog-faced bat"
+        },
+        {
+            "latin-name": "Molossus alvarezi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Molossus aztecus",
+            "common-name": "Aztec mastiff bat"
+        },
+        {
+            "latin-name": "Molossus barnesi",
+            "common-name": "Barnes' mastiff bat"
+        },
+        {
+            "latin-name": "Molossus bondae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Molossus coibensis",
+            "common-name": "Coiban mastiff bat"
+        },
+        {
+            "latin-name": "Molossus currentium",
+            "common-name": "Bonda mastiff bat"
+        },
+        {
+            "latin-name": "Molossus molossus",
+            "common-name": "Velvety free-tailed bat"
+        },
+        {
+            "latin-name": "Molossus pretiosus",
+            "common-name": "Miller's mastiff bat"
+        },
+        {
+            "latin-name": "Molossus rufus",
+            "common-name": "Black mastiff bat"
+        },
+        {
+            "latin-name": "Molossus sinaloae",
+            "common-name": "Sinaloan mastiff bat"
+        },
+        {
+            "latin-name": "Monophyllus plethodon",
+            "common-name": "Insular single leaf bat"
+        },
+        {
+            "latin-name": "Monophyllus redmani",
+            "common-name": "Leach's single leaf bat"
+        },
+        {
+            "latin-name": "Mops bakarii",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Mops brachyptera",
+            "common-name": "Sierra Leone free-tailed bat"
+        },
+        {
+            "latin-name": "Mops condylurus",
+            "common-name": "Angolan free-tailed bat"
+        },
+        {
+            "latin-name": "Mops congicus",
+            "common-name": "Medje free-tailed bat"
+        },
+        {
+            "latin-name": "Mops demonstrator",
+            "common-name": "Mongalla free-tailed bat"
+        },
+        {
+            "latin-name": "Mops leucostigma",
+            "common-name": "Malagasy white-bellied free-tailed bat"
+        },
+        {
+            "latin-name": "Mops midas",
+            "common-name": "Midas free-tailed bat"
+        },
+        {
+            "latin-name": "Mops mops",
+            "common-name": "Malayan free-tailed bat"
+        },
+        {
+            "latin-name": "Mops nanulus",
+            "common-name": "Dwarf free-tailed bat"
+        },
+        {
+            "latin-name": "Mops niangarae",
+            "common-name": "Niangara free-tailed bat"
+        },
+        {
+            "latin-name": "Mops niveiventer",
+            "common-name": "White-bellied free-tailed bat"
+        },
+        {
+            "latin-name": "Mops petersoni",
+            "common-name": "Peterson's free-tailed bat"
+        },
+        {
+            "latin-name": "Mops sarasinorum",
+            "common-name": "Sulawesi free-tailed bat"
+        },
+        {
+            "latin-name": "Mops spurrelli",
+            "common-name": "Spurrell's free-tailed bat"
+        },
+        {
+            "latin-name": "Mops thersites",
+            "common-name": "Railer bat"
+        },
+        {
+            "latin-name": "Mops trevori",
+            "common-name": "Trevor's free-tailed bat"
+        },
+        {
+            "latin-name": "Mormoops blainvillii",
+            "common-name": "Antillean ghost-faced bat"
+        },
+        {
+            "latin-name": "Mormoops magna",
+            "common-name": "Giant ghost-faced bat"
+        },
+        {
+            "latin-name": "Mormoops megalophylla",
+            "common-name": "Ghost-faced bat"
+        },
+        {
+            "latin-name": "Mormopterus acetabulosus",
+            "common-name": "Natal free-tailed bat"
+        },
+        {
+            "latin-name": "Mormopterus beccarii",
+            "common-name": "Beccari's mastiff bat"
+        },
+        {
+            "latin-name": "Mormopterus cobourgianus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Mormopterus doriae",
+            "common-name": "Sumatran mastiff bat"
+        },
+        {
+            "latin-name": "Mormopterus eleryi",
+            "common-name": "Bristle-faced free-tailed bat"
+        },
+        {
+            "latin-name": "Mormopterus francoismoutoui",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Mormopterus halli",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Mormopterus jugularis",
+            "common-name": "Peter's wrinkle-lipped bat"
+        },
+        {
+            "latin-name": "Mormopterus kalinowskii",
+            "common-name": "Kalinowski's mastiff bat"
+        },
+        {
+            "latin-name": "Mormopterus kitcheneri",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Mormopterus loriae",
+            "common-name": "Loria's mastiff bat"
+        },
+        {
+            "latin-name": "Mormopterus lumsdenae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Mormopterus minutus",
+            "common-name": "Little goblin bat"
+        },
+        {
+            "latin-name": "Mormopterus norfolkensis",
+            "common-name": "East-coast free-tailed bat"
+        },
+        {
+            "latin-name": "Mormopterus petersi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Mormopterus phrudus",
+            "common-name": "Incan little mastiff bat"
+        },
+        {
+            "latin-name": "Mormopterus planiceps",
+            "common-name": "Southern free-tailed bat"
+        },
+        {
+            "latin-name": "Mormopterus ridei",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Mosia nigrescens",
+            "common-name": "Dark sheath-tailed bat"
+        },
+        {
+            "latin-name": "Murina aenea",
+            "common-name": "Bronze tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina annamitica",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina aurata",
+            "common-name": "Little tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina balaensis",
+            "common-name": "Bala tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina beelzebub",
+            "common-name": "Beelzebub's tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina bicolor",
+            "common-name": "Bicolored tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina chrysochaetes",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina cineracea",
+            "common-name": "Ashy-gray tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina cyclotis",
+            "common-name": "Round-eared tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina eleryi",
+            "common-name": "Elery's tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina fanjingshanensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina feae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina fionae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina florium",
+            "common-name": "Flute-nosed bat"
+        },
+        {
+            "latin-name": "Murina fusca",
+            "common-name": "Dusky tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina gracilis",
+            "common-name": "Slender tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina guilleni",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina harpioloides",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina harrisoni",
+            "common-name": "Harrison's tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina hilgendorfi",
+            "common-name": "Hilgendorf's tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina huttoni",
+            "common-name": "Hutton's tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina jaintiana",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina kontumensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina leucogaster",
+            "common-name": "Greater tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina loreliae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina peninsularis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina pluvialis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina puta",
+            "common-name": "Taiwan tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina recondita",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina rozendaali",
+            "common-name": "Gilded tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina ryukyuana",
+            "common-name": "Ryukyu tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina shuipuensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Murina suilla",
+            "common-name": "Brown tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina tenebrosa",
+            "common-name": "Gloomy tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina tubinaris",
+            "common-name": "Scully's tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina ussuriensis",
+            "common-name": "Ussuri tube-nosed bat"
+        },
+        {
+            "latin-name": "Murina walstoni",
+            "common-name": "Walston's tube-nosed bat"
+        },
+        {
+            "latin-name": "Musonycteris harrisoni",
+            "common-name": "Banana bat"
+        },
+        {
+            "latin-name": "Myonycteris angolensis",
+            "common-name": "Angolan fruit bat"
+        },
+        {
+            "latin-name": "Myonycteris brachycephala",
+            "common-name": "S\u00e3o Tom\u00e9 collared fruit bat"
+        },
+        {
+            "latin-name": "Myonycteris leptodon",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Myonycteris relicta",
+            "common-name": "East African little collared fruit bat"
+        },
+        {
+            "latin-name": "Myonycteris torquata",
+            "common-name": "Little collared fruit bat"
+        },
+        {
+            "latin-name": "Myopterus daubentonii",
+            "common-name": "Daubenton's free-tailed bat"
+        },
+        {
+            "latin-name": "Myopterus whitleyi",
+            "common-name": "Bini free-tailed bat"
+        },
+        {
+            "latin-name": "Myotis abei",
+            "common-name": "Sakhalin myotis"
+        },
+        {
+            "latin-name": "Myotis adversus",
+            "common-name": "Large-footed bat"
+        },
+        {
+            "latin-name": "Myotis aelleni",
+            "common-name": "Southern myotis"
+        },
+        {
+            "latin-name": "Myotis albescens",
+            "common-name": "Silver-tipped myotis"
+        },
+        {
+            "latin-name": "Myotis alcathoe",
+            "common-name": "Alcathoe bat"
+        },
+        {
+            "latin-name": "Myotis altarium",
+            "common-name": "Szechwan myotis"
+        },
+        {
+            "latin-name": "Myotis anjouanensis",
+            "common-name": "Anjouan myotis"
+        },
+        {
+            "latin-name": "Myotis annamiticus",
+            "common-name": "Annamit myotis"
+        },
+        {
+            "latin-name": "Myotis annectans",
+            "common-name": "Hairy-faced bat"
+        },
+        {
+            "latin-name": "Myotis atacamensis",
+            "common-name": "Atacama myotis"
+        },
+        {
+            "latin-name": "Myotis ater",
+            "common-name": "Peters's myotis"
+        },
+        {
+            "latin-name": "Myotis auriculus",
+            "common-name": "Southwestern myotis"
+        },
+        {
+            "latin-name": "Myotis australis",
+            "common-name": "Australian myotis"
+        },
+        {
+            "latin-name": "Myotis austroriparius",
+            "common-name": "Southeastern myotis"
+        },
+        {
+            "latin-name": "Myotis bechsteini",
+            "common-name": "Bechstein's bat"
+        },
+        {
+            "latin-name": "Myotis blythii",
+            "common-name": "Lesser mouse-eared bat"
+        },
+        {
+            "latin-name": "Myotis bocagii",
+            "common-name": "Rufous mouse-eared bat"
+        },
+        {
+            "latin-name": "Myotis bombinus",
+            "common-name": "Far Eastern myotis"
+        },
+        {
+            "latin-name": "Myotis brandti",
+            "common-name": "Brandt's bat"
+        },
+        {
+            "latin-name": "Myotis bucharensis",
+            "common-name": "Bocharic myotis"
+        },
+        {
+            "latin-name": "Myotis californicus",
+            "common-name": "California myotis"
+        },
+        {
+            "latin-name": "Myotis capaccinii",
+            "common-name": "Long-fingered bat"
+        },
+        {
+            "latin-name": "Myotis chiloensis",
+            "common-name": "Chilean myotis"
+        },
+        {
+            "latin-name": "Myotis chinensis",
+            "common-name": "Large myotis"
+        },
+        {
+            "latin-name": "Myotis ciliolabrum",
+            "common-name": "Western small-footed myotis"
+        },
+        {
+            "latin-name": "Myotis cobanensis",
+            "common-name": "Guatemalan myotis"
+        },
+        {
+            "latin-name": "Myotis crypticus",
+            "common-name": "Cryptic myotis"
+        },
+        {
+            "latin-name": "Myotis csorbai",
+            "common-name": "Csorba's mouse-eared bat"
+        },
+        {
+            "latin-name": "Myotis dasycneme",
+            "common-name": "Pond bat"
+        },
+        {
+            "latin-name": "Myotis daubentoni",
+            "common-name": "Daubenton's bat"
+        },
+        {
+            "latin-name": "Myotis davidii",
+            "common-name": "David's myotis"
+        },
+        {
+            "latin-name": "Myotis dominicensis",
+            "common-name": "Dominican myotis"
+        },
+        {
+            "latin-name": "Myotis elegans",
+            "common-name": "Elegant myotis"
+        },
+        {
+            "latin-name": "Myotis emarginatus",
+            "common-name": "Geoffroy's bat"
+        },
+        {
+            "latin-name": "Myotis evotis",
+            "common-name": "Western long-eared myotis"
+        },
+        {
+            "latin-name": "Myotis fimbriatus",
+            "common-name": "Fringed long-footed myotis"
+        },
+        {
+            "latin-name": "Myotis findleyi",
+            "common-name": "Findley's myotis"
+        },
+        {
+            "latin-name": "Myotis formosus",
+            "common-name": "Hodgson's bat"
+        },
+        {
+            "latin-name": "Myotis fortidens",
+            "common-name": "Cinnamon myotis"
+        },
+        {
+            "latin-name": "Myotis frater",
+            "common-name": "Fraternal myotis"
+        },
+        {
+            "latin-name": "Myotis gomantongensis",
+            "common-name": "Gomantong myotis"
+        },
+        {
+            "latin-name": "Myotis goudoti",
+            "common-name": "Malagasy mouse-eared bat"
+        },
+        {
+            "latin-name": "Myotis grisescens",
+            "common-name": "Gray bat"
+        },
+        {
+            "latin-name": "Myotis hajastanicus",
+            "common-name": "Armenian whiskered bat"
+        },
+        {
+            "latin-name": "Myotis hasseltii",
+            "common-name": "Lesser large-footed bat"
+        },
+        {
+            "latin-name": "Myotis hermani",
+            "common-name": "Herman's myotis"
+        },
+        {
+            "latin-name": "Myotis horsfieldii",
+            "common-name": "Horsfield's bat"
+        },
+        {
+            "latin-name": "Myotis hosonoi",
+            "common-name": "Hosono's myotis"
+        },
+        {
+            "latin-name": "Myotis ikonnikovi",
+            "common-name": "Ikonnikov's bat"
+        },
+        {
+            "latin-name": "Myotis insularum",
+            "common-name": "Insular myotis"
+        },
+        {
+            "latin-name": "Myotis izecksohni",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Myotis keaysi",
+            "common-name": "Hairy-legged myotis"
+        },
+        {
+            "latin-name": "Myotis keenii",
+            "common-name": "Keen's myotis"
+        },
+        {
+            "latin-name": "Myotis laniger",
+            "common-name": "Chinese water myotis"
+        },
+        {
+            "latin-name": "Myotis leibii",
+            "common-name": "Eastern small-footed myotis"
+        },
+        {
+            "latin-name": "Myotis levis",
+            "common-name": "Yellowish myotis"
+        },
+        {
+            "latin-name": "Myotis longipes",
+            "common-name": "Kashmir cave bat"
+        },
+        {
+            "latin-name": "Myotis lucifugus",
+            "common-name": "Little brown bat"
+        },
+        {
+            "latin-name": "Myotis macrodactylus",
+            "common-name": "Big-footed myotis"
+        },
+        {
+            "latin-name": "Myotis macropus",
+            "common-name": "Southern myotis"
+        },
+        {
+            "latin-name": "Myotis macrotarsus",
+            "common-name": "Pallid large-footed myotis"
+        },
+        {
+            "latin-name": "Myotis martiniquensis",
+            "common-name": "Schwartz's myotis"
+        },
+        {
+            "latin-name": "Myotis melanorhinus",
+            "common-name": "Dark-nosed small-footed myotis"
+        },
+        {
+            "latin-name": "Myotis moluccarum",
+            "common-name": "Maluku myotis"
+        },
+        {
+            "latin-name": "Myotis montivagus",
+            "common-name": "Burmese whiskered bat"
+        },
+        {
+            "latin-name": "Myotis morrisi",
+            "common-name": "Morris's bat"
+        },
+        {
+            "latin-name": "Myotis muricola",
+            "common-name": "Whiskered myotis"
+        },
+        {
+            "latin-name": "Myotis myotis",
+            "common-name": "Greater mouse-eared bat"
+        },
+        {
+            "latin-name": "Myotis mystacinus",
+            "common-name": "Whiskered bat"
+        },
+        {
+            "latin-name": "Myotis nattereri",
+            "common-name": "Natterer's bat"
+        },
+        {
+            "latin-name": "Myotis nesopolus",
+            "common-name": "Curacao myotis"
+        },
+        {
+            "latin-name": "Myotis nigricans",
+            "common-name": "Black myotis"
+        },
+        {
+            "latin-name": "Myotis nipalensis",
+            "common-name": "Nepal myotis"
+        },
+        {
+            "latin-name": "Myotis occultus",
+            "common-name": "Arizona myotis"
+        },
+        {
+            "latin-name": "Myotis oreias",
+            "common-name": "Singapore whiskered bat"
+        },
+        {
+            "latin-name": "Myotis oxyotus",
+            "common-name": "Montane myotis"
+        },
+        {
+            "latin-name": "Myotis ozensis",
+            "common-name": "Honshu myotis"
+        },
+        {
+            "latin-name": "Myotis peninsularis",
+            "common-name": "Peninsular myotis"
+        },
+        {
+            "latin-name": "Myotis pequinius",
+            "common-name": "Peking myotis"
+        },
+        {
+            "latin-name": "Myotis planiceps",
+            "common-name": "Flat-headed myotis"
+        },
+        {
+            "latin-name": "Myotis pruinosus",
+            "common-name": "Frosted myotis"
+        },
+        {
+            "latin-name": "Myotis punicus",
+            "common-name": "Felten's myotis"
+        },
+        {
+            "latin-name": "Myotis ricketti",
+            "common-name": "Rickett's big-footed bat"
+        },
+        {
+            "latin-name": "Myotis ridleyi",
+            "common-name": "Ridley's bat"
+        },
+        {
+            "latin-name": "Myotis riparius",
+            "common-name": "Riparian myotis"
+        },
+        {
+            "latin-name": "Myotis rosseti",
+            "common-name": "Thick-thumbed myotis"
+        },
+        {
+            "latin-name": "Myotis ruber",
+            "common-name": "Red myotis"
+        },
+        {
+            "latin-name": "Myotis schaubi",
+            "common-name": "Schaub's myotis"
+        },
+        {
+            "latin-name": "Myotis scotti",
+            "common-name": "Scott's mouse-eared bat"
+        },
+        {
+            "latin-name": "Myotis septentrionalis",
+            "common-name": "Northern long-eared myotis"
+        },
+        {
+            "latin-name": "Myotis sicarius",
+            "common-name": "Mandelli's mouse-eared bat"
+        },
+        {
+            "latin-name": "Myotis siligorensis",
+            "common-name": "Himalayan whiskered bat"
+        },
+        {
+            "latin-name": "Myotis simus",
+            "common-name": "Velvety myotis"
+        },
+        {
+            "latin-name": "Myotis sodalis",
+            "common-name": "Indiana bat"
+        },
+        {
+            "latin-name": "Myotis stalkeri",
+            "common-name": "Kei myotis"
+        },
+        {
+            "latin-name": "Myotis thysanodes",
+            "common-name": "Fringed myotis"
+        },
+        {
+            "latin-name": "Myotis tricolor",
+            "common-name": "Cape hairy bat"
+        },
+        {
+            "latin-name": "Myotis velifer",
+            "common-name": "Cave myotis"
+        },
+        {
+            "latin-name": "Myotis vivesi",
+            "common-name": "Fish-eating bat"
+        },
+        {
+            "latin-name": "Myotis volans",
+            "common-name": "Long-legged myotis"
+        },
+        {
+            "latin-name": "Myotis welwitschii",
+            "common-name": "Welwitsch's bat"
+        },
+        {
+            "latin-name": "Myotis yanbarensis",
+            "common-name": "Yanbaru whiskered bat"
+        },
+        {
+            "latin-name": "Myotis yesoensis",
+            "common-name": "Yoshiyuki's myotis"
+        },
+        {
+            "latin-name": "Myotis yumanensis",
+            "common-name": "Yuma myotis"
+        },
+        {
+            "latin-name": "Myotis zenatius",
+            "common-name": "Zenati myotis"
+        },
+        {
+            "latin-name": "Mystacina robusta",
+            "common-name": "New Zealand greater short-tailed bat"
+        },
+        {
+            "latin-name": "Mystacina tuberculata",
+            "common-name": "New Zealand lesser short-tailed bat"
+        },
+        {
+            "latin-name": "Myzopoda aurita",
+            "common-name": "Madagascar sucker-footed bat"
+        },
+        {
+            "latin-name": "Myzopoda schliemanni",
+            "common-name": "Western sucker-footed bat"
+        },
+        {
+            "latin-name": "Nanonycteris veldkampii",
+            "common-name": "Veldkamp's dwarf epauletted fruit bat"
+        },
+        {
+            "latin-name": "Natalus espiritosantensis",
+            "common-name": "Brazilian funnel-eared bat"
+        },
+        {
+            "latin-name": "Natalus jamaicensis",
+            "common-name": "Jamaican greater funnel-eared bat"
+        },
+        {
+            "latin-name": "Natalus major",
+            "common-name": "Hispaniolan greater funnel-eared bat"
+        },
+        {
+            "latin-name": "Natalus mexicanus",
+            "common-name": "Mexican greater funnel-eared bat"
+        },
+        {
+            "latin-name": "Natalus primus",
+            "common-name": "Cuban greater funnel-eared bat"
+        },
+        {
+            "latin-name": "Natalus stramineus",
+            "common-name": "Mexican funnel-eared bat"
+        },
+        {
+            "latin-name": "Natalus tumidirostris",
+            "common-name": "Trinidadian funnel-eared bat"
+        },
+        {
+            "latin-name": "Neopteryx frosti",
+            "common-name": "Small-toothed fruit bat"
+        },
+        {
+            "latin-name": "Neoromicia brunneus",
+            "common-name": "Dark-brown serotine"
+        },
+        {
+            "latin-name": "Neoromicia capensis",
+            "common-name": "Cape serotine"
+        },
+        {
+            "latin-name": "Neoromicia flavescens",
+            "common-name": "Yellow serotine"
+        },
+        {
+            "latin-name": "Neoromicia guineensis",
+            "common-name": "Tiny serotine"
+        },
+        {
+            "latin-name": "Neoromicia helios",
+            "common-name": "Heller's pipistrelle"
+        },
+        {
+            "latin-name": "Neoromicia malagasyensis",
+            "common-name": "Isalo serotine"
+        },
+        {
+            "latin-name": "Neoromicia matroka",
+            "common-name": "Malagasy serotine"
+        },
+        {
+            "latin-name": "Neoromicia melckorum",
+            "common-name": "Melck's house bat"
+        },
+        {
+            "latin-name": "Neoromicia nana",
+            "common-name": "Banana pipistrelle"
+        },
+        {
+            "latin-name": "Neoromicia rendalli",
+            "common-name": "Rendall's serotine"
+        },
+        {
+            "latin-name": "Neoromicia roseveari",
+            "common-name": "Rosevear's serotine"
+        },
+        {
+            "latin-name": "Neoromicia tenuipinnis",
+            "common-name": "White-winged serotine"
+        },
+        {
+            "latin-name": "Neoromicia zuluensis",
+            "common-name": "Zulu serotine"
+        },
+        {
+            "latin-name": "Niumbaha superba",
+            "common-name": "Pied bat"
+        },
+        {
+            "latin-name": "Noctilio albiventris",
+            "common-name": "Lesser bulldog bat"
+        },
+        {
+            "latin-name": "Noctilio leporinus",
+            "common-name": "Greater bulldog bat"
+        },
+        {
+            "latin-name": "Notopteris macdonaldi",
+            "common-name": "Long-tailed fruit bat"
+        },
+        {
+            "latin-name": "Notopteris neocaledonica",
+            "common-name": "New Caledonia blossom bat"
+        },
+        {
+            "latin-name": "Nyctalus aviator",
+            "common-name": "Birdlike noctule"
+        },
+        {
+            "latin-name": "Nyctalus azoreum",
+            "common-name": "Azores noctule"
+        },
+        {
+            "latin-name": "Nyctalus furvus",
+            "common-name": "Japanese noctule"
+        },
+        {
+            "latin-name": "Nyctalus lasiopterus",
+            "common-name": "Greater noctule bat"
+        },
+        {
+            "latin-name": "Nyctalus leisleri",
+            "common-name": "Lesser noctule"
+        },
+        {
+            "latin-name": "Nyctalus montanus",
+            "common-name": "Mountain noctule"
+        },
+        {
+            "latin-name": "Nyctalus noctula",
+            "common-name": "Common noctule"
+        },
+        {
+            "latin-name": "Nyctalus plancyi",
+            "common-name": "Chinese noctule"
+        },
+        {
+            "latin-name": "Nycteris arge",
+            "common-name": "Bate's slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris aurita",
+            "common-name": "Andersen's slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris gambiensis",
+            "common-name": "Gambian slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris grandis",
+            "common-name": "Large slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris hispida",
+            "common-name": "Hairy slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris intermedia",
+            "common-name": "Intermediate slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris javanica",
+            "common-name": "Javan slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris macrotis",
+            "common-name": "Large-eared slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris madagascariensis",
+            "common-name": "Malagasy slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris major",
+            "common-name": "Ja slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris nana",
+            "common-name": "Dwarf slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris parisii",
+            "common-name": "Parissi's slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris thebaica",
+            "common-name": "Egyptian slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris tragata",
+            "common-name": "Malayan slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris vinsoni",
+            "common-name": "Vinson's slit-faced bat"
+        },
+        {
+            "latin-name": "Nycteris woodi",
+            "common-name": "Wood's slit-faced bat"
+        },
+        {
+            "latin-name": "Nycticeinops schlieffeni",
+            "common-name": "Schlieffen's twilight bat"
+        },
+        {
+            "latin-name": "Nycticeius aenobarbus",
+            "common-name": "Temminck's mysterious bat"
+        },
+        {
+            "latin-name": "Nycticeius cubanus",
+            "common-name": "Cuban evening bat"
+        },
+        {
+            "latin-name": "Nycticeius humeralis",
+            "common-name": "Evening bat"
+        },
+        {
+            "latin-name": "Nyctiellus lepidus",
+            "common-name": "Gervais's funnel-eared bat"
+        },
+        {
+            "latin-name": "Nyctimene aello",
+            "common-name": "Broad-striped tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene albiventer",
+            "common-name": "Common tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene cephalotes",
+            "common-name": "Pallas's tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene certans",
+            "common-name": "Mountain tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene cyclotis",
+            "common-name": "Round-eared tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene draconilla",
+            "common-name": "Dragon tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene keasti",
+            "common-name": "Keast's tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene major",
+            "common-name": "Island tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene malaitensis",
+            "common-name": "Malaita tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene masalai",
+            "common-name": "Demonic tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene minutus",
+            "common-name": "Lesser tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene rabori",
+            "common-name": "Philippine tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene robinsoni",
+            "common-name": "Eastern tube-nosed bat"
+        },
+        {
+            "latin-name": "Nyctimene sanctacrucis",
+            "common-name": "Nendo tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctimene vizcaccia",
+            "common-name": "Umboi tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Nyctinomops aurispinosus",
+            "common-name": "Peale's free-tailed bat"
+        },
+        {
+            "latin-name": "Nyctinomops femorosaccus",
+            "common-name": "Pocketed free-tailed bat"
+        },
+        {
+            "latin-name": "Nyctinomops laticaudatus",
+            "common-name": "Broad-eared bat"
+        },
+        {
+            "latin-name": "Nyctinomops macrotis",
+            "common-name": "Big free-tailed bat"
+        },
+        {
+            "latin-name": "Nyctophilus arnhemensis",
+            "common-name": "Northern long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus bifax",
+            "common-name": "Eastern long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus corbeni",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Nyctophilus geoffroyi",
+            "common-name": "Lesser long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus gouldi",
+            "common-name": "Gould's long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus heran",
+            "common-name": "Sunda long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus howensis",
+            "common-name": "Lord Howe long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus major",
+            "common-name": "Western long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus microdon",
+            "common-name": "Small-toothed long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus microtis",
+            "common-name": "New Guinea long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus nebulosus",
+            "common-name": "New Caledonian long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus sherrini",
+            "common-name": "Tasmanian long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus shirleyae",
+            "common-name": "Mt. Missim long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus timoriensis",
+            "common-name": "Greater long-eared bat"
+        },
+        {
+            "latin-name": "Nyctophilus walkeri",
+            "common-name": "Pygmy long-eared bat"
+        },
+        {
+            "latin-name": "Otomops formosus",
+            "common-name": "Javan mastiff bat"
+        },
+        {
+            "latin-name": "Otomops harrisoni",
+            "common-name": "Harrison's large-eared giant mastiff bat"
+        },
+        {
+            "latin-name": "Otomops johnstonei",
+            "common-name": "Johnstone's mastiff bat"
+        },
+        {
+            "latin-name": "Otomops madagascariensis",
+            "common-name": "Madagascar free-tailed bat"
+        },
+        {
+            "latin-name": "Otomops martiensseni",
+            "common-name": "Large-eared free-tailed bat"
+        },
+        {
+            "latin-name": "Otomops papuensis",
+            "common-name": "Big-eared mastiff bat"
+        },
+        {
+            "latin-name": "Otomops secundus",
+            "common-name": "Mantled mastiff bat"
+        },
+        {
+            "latin-name": "Otomops wroughtoni",
+            "common-name": "Wroughton's free-tailed bat"
+        },
+        {
+            "latin-name": "Otonycteris hemprichii",
+            "common-name": "Desert long-eared bat"
+        },
+        {
+            "latin-name": "Otopteropus cartilagonodus",
+            "common-name": "Luzon fruit bat"
+        },
+        {
+            "latin-name": "Paranyctimene raptor",
+            "common-name": "Lesser tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Paranyctimene tenax",
+            "common-name": "Steadfast tube-nosed fruit bat"
+        },
+        {
+            "latin-name": "Parastrellus hesperus",
+            "common-name": "Canyon bat"
+        },
+        {
+            "latin-name": "Paratriaenops furculus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Paratriaenops pauliani",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Paremballonura atrata",
+            "common-name": "Peters's sheath-tailed bat"
+        },
+        {
+            "latin-name": "Paremballonura tiavato",
+            "common-name": "Western sheath-tailed bat"
+        },
+        {
+            "latin-name": "Penthetor lucasi",
+            "common-name": "Dusky fruit bat"
+        },
+        {
+            "latin-name": "Perimyotis subflavus",
+            "common-name": "Tricolored bat"
+        },
+        {
+            "latin-name": "Peropteryx kappleri",
+            "common-name": "Greater dog-like bat"
+        },
+        {
+            "latin-name": "Peropteryx leucoptera",
+            "common-name": "White-winged dog-like bat"
+        },
+        {
+            "latin-name": "Peropteryx macrotis",
+            "common-name": "Lesser dog-like bat"
+        },
+        {
+            "latin-name": "Peropteryx pallidoptera",
+            "common-name": "Pale-winged dog-like bat"
+        },
+        {
+            "latin-name": "Peropteryx trinitatis",
+            "common-name": "Trinidad dog-like bat"
+        },
+        {
+            "latin-name": "Pharotis imogene",
+            "common-name": "New Guinea big-eared bat"
+        },
+        {
+            "latin-name": "Philetor brachypterus",
+            "common-name": "Rohu's bat"
+        },
+        {
+            "latin-name": "Phylloderma stenops",
+            "common-name": "Pale-faced bat"
+        },
+        {
+            "latin-name": "Phyllonycteris aphylla",
+            "common-name": "Jamaican flower bat"
+        },
+        {
+            "latin-name": "Phyllonycteris major",
+            "common-name": "Puerto Rican flower bat"
+        },
+        {
+            "latin-name": "Phyllonycteris poeyi",
+            "common-name": "Cuban flower bat"
+        },
+        {
+            "latin-name": "Phyllops falcatus",
+            "common-name": "Cuban fig-eating bat"
+        },
+        {
+            "latin-name": "Phyllostomus discolor",
+            "common-name": "Pale spear-nosed bat"
+        },
+        {
+            "latin-name": "Phyllostomus elongatus",
+            "common-name": "Lesser spear-nosed bat"
+        },
+        {
+            "latin-name": "Phyllostomus hastatus",
+            "common-name": "Greater spear-nosed bat"
+        },
+        {
+            "latin-name": "Phyllostomus latifolius",
+            "common-name": "Guianan spear-nosed bat"
+        },
+        {
+            "latin-name": "Pipistrellus abramus",
+            "common-name": "Japanese pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus adamsi",
+            "common-name": "Forest pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus aero",
+            "common-name": "Mount Gargues pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus angulatus",
+            "common-name": "Angulate pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus ceylonicus",
+            "common-name": "Kelaart's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus collinus",
+            "common-name": "Greater Papuan pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus coromandra",
+            "common-name": "Indian pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus deserti",
+            "common-name": "Egyptian pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus endoi",
+            "common-name": "Endo's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus hanaki",
+            "common-name": "Hanaki's dwarf bat"
+        },
+        {
+            "latin-name": "Pipistrellus hesperidus",
+            "common-name": "Dusky pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus inexspectatus",
+            "common-name": "Aellen's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus javanicus",
+            "common-name": "Java pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus kuhlii",
+            "common-name": "Kuhl's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus maderensis",
+            "common-name": "Madeira pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus minahassae",
+            "common-name": "Minahassa pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus murrayi",
+            "common-name": "Christmas Island pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus nanulus",
+            "common-name": "Tiny pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus nathusii",
+            "common-name": "Nathusius's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus papuanus",
+            "common-name": "Lesser Papuan pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus paterculus",
+            "common-name": "Mount Popa pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus permixtus",
+            "common-name": "Dar es Salaam pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus pipistrellus",
+            "common-name": "Common pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus pygmaeus",
+            "common-name": "Soprano pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus raceyi",
+            "common-name": "Racey's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus rueppellii",
+            "common-name": "R\u00fcppell's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus rusticus",
+            "common-name": "Rusty pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus stenopterus",
+            "common-name": "Narrow-winged pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus sturdeei",
+            "common-name": "Sturdee's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus tenuis",
+            "common-name": "Least pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus wattsi",
+            "common-name": "Watts's pipistrelle"
+        },
+        {
+            "latin-name": "Pipistrellus westralis",
+            "common-name": "Northern pipistrelle"
+        },
+        {
+            "latin-name": "Platalina genovensium",
+            "common-name": "Long-snouted bat"
+        },
+        {
+            "latin-name": "Platymops setiger",
+            "common-name": "Peters's flat-headed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus albericoi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Platyrrhinus aurarius",
+            "common-name": "Eldorado broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus brachycephalus",
+            "common-name": "Short-headed broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus chocoensis",
+            "common-name": "Choco broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus dorsalis",
+            "common-name": "Thomas's broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus helleri",
+            "common-name": "Heller's broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus infuscus",
+            "common-name": "Buffy broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus ismaeli",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Platyrrhinus lineatus",
+            "common-name": "White-lined broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus masu",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Platyrrhinus matapalensis",
+            "common-name": "Matapalo broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus nigellus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Platyrrhinus recifinus",
+            "common-name": "Recife broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus umbratus",
+            "common-name": "Shadowy broad-nosed bat"
+        },
+        {
+            "latin-name": "Platyrrhinus vittatus",
+            "common-name": "Greater broad-nosed bat"
+        },
+        {
+            "latin-name": "Plecotus ariel",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Plecotus auritus",
+            "common-name": "Brown long-eared bat"
+        },
+        {
+            "latin-name": "Plecotus austriacus",
+            "common-name": "Grey long-eared bat"
+        },
+        {
+            "latin-name": "Plecotus balensis",
+            "common-name": "Ethiopian big-eared bat"
+        },
+        {
+            "latin-name": "Plecotus christii",
+            "common-name": "Christie's big-eared bat"
+        },
+        {
+            "latin-name": "Plecotus kolombatovici",
+            "common-name": "Mediterranean long-eared bat"
+        },
+        {
+            "latin-name": "Plecotus macrobullaris",
+            "common-name": "Alpine long-eared bat"
+        },
+        {
+            "latin-name": "Plecotus sacrimontis",
+            "common-name": "Japanese long-eared bat"
+        },
+        {
+            "latin-name": "Plecotus sardus",
+            "common-name": "Sardinian long-eared bat"
+        },
+        {
+            "latin-name": "Plecotus strelkovi",
+            "common-name": "Strelkov's big-eared bat"
+        },
+        {
+            "latin-name": "Plecotus taivanus",
+            "common-name": "Taiwan big-eared bat"
+        },
+        {
+            "latin-name": "Plecotus teneriffae",
+            "common-name": "Canary big-eared bat"
+        },
+        {
+            "latin-name": "Plerotes anchietae",
+            "common-name": "D'Anchieta's fruit bat"
+        },
+        {
+            "latin-name": "Promops centralis",
+            "common-name": "Big crested mastiff bat"
+        },
+        {
+            "latin-name": "Promops nasutus",
+            "common-name": "Brown mastiff bat"
+        },
+        {
+            "latin-name": "Ptenochirus jagori",
+            "common-name": "Greater musky fruit bat"
+        },
+        {
+            "latin-name": "Ptenochirus minor",
+            "common-name": "Lesser musky fruit bat"
+        },
+        {
+            "latin-name": "Pteralopex anceps",
+            "common-name": "Bougainville monkey-faced bat"
+        },
+        {
+            "latin-name": "Pteralopex atrata",
+            "common-name": "Guadalcanal monkey-faced bat"
+        },
+        {
+            "latin-name": "Pteralopex flanneryi",
+            "common-name": "Greater monkey-faced bat"
+        },
+        {
+            "latin-name": "Pteralopex pulchra",
+            "common-name": "Montane monkey-faced bat"
+        },
+        {
+            "latin-name": "Pteralopex taki",
+            "common-name": "New Georgian monkey-faced bat"
+        },
+        {
+            "latin-name": "Pteronotus davy",
+            "common-name": "Davy's naked-backed bat"
+        },
+        {
+            "latin-name": "Pteronotus gymnonotus",
+            "common-name": "Big naked-backed bat"
+        },
+        {
+            "latin-name": "Pteronotus macleayi",
+            "common-name": "Macleay's mustached bat"
+        },
+        {
+            "latin-name": "Pteronotus mesoamericanus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Pteronotus paraguanensis",
+            "common-name": "Paraguana moustached bat"
+        },
+        {
+            "latin-name": "Pteronotus parnellii",
+            "common-name": "Parnell's mustached bat"
+        },
+        {
+            "latin-name": "Pteronotus personatus",
+            "common-name": "Wagner's mustached bat"
+        },
+        {
+            "latin-name": "Pteronotus quadridens",
+            "common-name": "Sooty mustached bat"
+        },
+        {
+            "latin-name": "Pteronotus rubiginosus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Pteropus admiralitatum",
+            "common-name": "Admiralty flying fox"
+        },
+        {
+            "latin-name": "Pteropus aldabrensis",
+            "common-name": "Aldabra flying fox"
+        },
+        {
+            "latin-name": "Pteropus alecto",
+            "common-name": "Black flying fox"
+        },
+        {
+            "latin-name": "Pteropus allenorum",
+            "common-name": "Small Samoan flying fox"
+        },
+        {
+            "latin-name": "Pteropus anetianus",
+            "common-name": "Vanuatu flying fox"
+        },
+        {
+            "latin-name": "Pteropus argentatus",
+            "common-name": "Silvery flying fox"
+        },
+        {
+            "latin-name": "Pteropus aruensis",
+            "common-name": "Aru flying fox"
+        },
+        {
+            "latin-name": "Pteropus brunneus",
+            "common-name": "Dusky flying fox"
+        },
+        {
+            "latin-name": "Pteropus caniceps",
+            "common-name": "Ashy-headed flying fox"
+        },
+        {
+            "latin-name": "Pteropus capistratus",
+            "common-name": "Bismark masked flying fox"
+        },
+        {
+            "latin-name": "Pteropus chrysoproctus",
+            "common-name": "Moluccan flying fox"
+        },
+        {
+            "latin-name": "Pteropus cognatus",
+            "common-name": "Makira flying fox"
+        },
+        {
+            "latin-name": "Pteropus conspicillatus",
+            "common-name": "Spectacled flying fox"
+        },
+        {
+            "latin-name": "Pteropus coxi",
+            "common-name": "Large Samoan flying fox"
+        },
+        {
+            "latin-name": "Pteropus dasymallus",
+            "common-name": "Ryukyu flying fox"
+        },
+        {
+            "latin-name": "Pteropus ennisae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Pteropus faunulus",
+            "common-name": "Nicobar flying fox"
+        },
+        {
+            "latin-name": "Pteropus fundatus",
+            "common-name": "Banks flying fox"
+        },
+        {
+            "latin-name": "Pteropus gilliardorum",
+            "common-name": "Gilliard's flying fox"
+        },
+        {
+            "latin-name": "Pteropus griseus",
+            "common-name": "Gray flying fox"
+        },
+        {
+            "latin-name": "Pteropus howensis",
+            "common-name": "Ontong Java flying fox"
+        },
+        {
+            "latin-name": "Pteropus hypomelanus",
+            "common-name": "Small flying fox"
+        },
+        {
+            "latin-name": "Pteropus intermedius",
+            "common-name": "Andersen's flying fox"
+        },
+        {
+            "latin-name": "Pteropus keyensis",
+            "common-name": "Kei flying fox"
+        },
+        {
+            "latin-name": "Pteropus livingstonii",
+            "common-name": "Livingstone's fruit bat"
+        },
+        {
+            "latin-name": "Pteropus lombocensis",
+            "common-name": "Lombok flying fox"
+        },
+        {
+            "latin-name": "Pteropus loochoensis",
+            "common-name": "Okinawa flying fox"
+        },
+        {
+            "latin-name": "Pteropus lylei",
+            "common-name": "Lyle's flying fox"
+        },
+        {
+            "latin-name": "Pteropus macrotis",
+            "common-name": "Big-eared flying fox"
+        },
+        {
+            "latin-name": "Pteropus mahaganus",
+            "common-name": "Lesser flying fox"
+        },
+        {
+            "latin-name": "Pteropus mariannus",
+            "common-name": "Mariana fruit bat"
+        },
+        {
+            "latin-name": "Pteropus medius",
+            "common-name": "Indian flying fox"
+        },
+        {
+            "latin-name": "Pteropus melanopogon",
+            "common-name": "Black-bearded flying fox"
+        },
+        {
+            "latin-name": "Pteropus melanotus",
+            "common-name": "Black-eared flying fox"
+        },
+        {
+            "latin-name": "Pteropus molossinus",
+            "common-name": "Caroline flying fox"
+        },
+        {
+            "latin-name": "Pteropus neohibernicus",
+            "common-name": "Great flying fox"
+        },
+        {
+            "latin-name": "Pteropus niger",
+            "common-name": "Mauritian flying fox"
+        },
+        {
+            "latin-name": "Pteropus nitendiensis",
+            "common-name": "Temotu flying fox"
+        },
+        {
+            "latin-name": "Pteropus ocularis",
+            "common-name": "Ceram fruit bat"
+        },
+        {
+            "latin-name": "Pteropus ornatus",
+            "common-name": "Ornate flying fox"
+        },
+        {
+            "latin-name": "Pteropus pelagicus",
+            "common-name": "Chuuk flying fox"
+        },
+        {
+            "latin-name": "Pteropus pelewensis",
+            "common-name": "Pelew flying fox"
+        },
+        {
+            "latin-name": "Pteropus personatus",
+            "common-name": "Masked flying fox"
+        },
+        {
+            "latin-name": "Pteropus pilosus",
+            "common-name": "Large Palau flying fox"
+        },
+        {
+            "latin-name": "Pteropus pohlei",
+            "common-name": "Geelvink Bay flying fox"
+        },
+        {
+            "latin-name": "Pteropus poliocephalus",
+            "common-name": "Grey-headed flying fox"
+        },
+        {
+            "latin-name": "Pteropus pselaphon",
+            "common-name": "Bonin flying fox"
+        },
+        {
+            "latin-name": "Pteropus pumilus",
+            "common-name": "Little golden-mantled flying fox"
+        },
+        {
+            "latin-name": "Pteropus rayneri",
+            "common-name": "Solomons flying fox"
+        },
+        {
+            "latin-name": "Pteropus rennelli",
+            "common-name": "Rennell flying fox"
+        },
+        {
+            "latin-name": "Pteropus rodricensis",
+            "common-name": "Rodrigues flying fox"
+        },
+        {
+            "latin-name": "Pteropus rufus",
+            "common-name": "Madagascan flying fox"
+        },
+        {
+            "latin-name": "Pteropus samoensis",
+            "common-name": "Samoa flying fox"
+        },
+        {
+            "latin-name": "Pteropus scapulatus",
+            "common-name": "Little red flying fox"
+        },
+        {
+            "latin-name": "Pteropus seychellensis",
+            "common-name": "Seychelles fruit bat"
+        },
+        {
+            "latin-name": "Pteropus speciosus",
+            "common-name": "Philippine gray flying fox"
+        },
+        {
+            "latin-name": "Pteropus subniger",
+            "common-name": "Small Mauritian flying fox"
+        },
+        {
+            "latin-name": "Pteropus temminckii",
+            "common-name": "Temminck's flying fox"
+        },
+        {
+            "latin-name": "Pteropus tokudae",
+            "common-name": "Guam flying fox"
+        },
+        {
+            "latin-name": "Pteropus tonganus",
+            "common-name": "Insular flying fox"
+        },
+        {
+            "latin-name": "Pteropus tuberculatus",
+            "common-name": "Vanikoro flying fox"
+        },
+        {
+            "latin-name": "Pteropus ualanus",
+            "common-name": "Kosrae flying fox"
+        },
+        {
+            "latin-name": "Pteropus vampyrus",
+            "common-name": "Large flying fox"
+        },
+        {
+            "latin-name": "Pteropus vetulus",
+            "common-name": "New Caledonia flying fox"
+        },
+        {
+            "latin-name": "Pteropus voeltzkowi",
+            "common-name": "Pemba flying fox"
+        },
+        {
+            "latin-name": "Pteropus woodfordi",
+            "common-name": "Dwarf flying fox"
+        },
+        {
+            "latin-name": "Pteropus yapensis",
+            "common-name": "Yap flying fox"
+        },
+        {
+            "latin-name": "Pygoderma bilabiatum",
+            "common-name": "Ipanema bat"
+        },
+        {
+            "latin-name": "Rhinolophus acuminatus",
+            "common-name": "Acuminate horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus adami",
+            "common-name": "Adam's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus affinis",
+            "common-name": "Intermediate horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus alcyone",
+            "common-name": "Halcyon horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus arcuatus",
+            "common-name": "Arcuate horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus beddomei",
+            "common-name": "Lesser woolly horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus belligerator",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus blasii",
+            "common-name": "Blasius's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus bocharicus",
+            "common-name": "Bokhara horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus borneensis",
+            "common-name": "Bornean horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus canuti",
+            "common-name": "Canut's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus capensis",
+            "common-name": "Cape horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus celebensis",
+            "common-name": "Sulawesi horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus chaseni",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus chiewkweeae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus clivosus",
+            "common-name": "Geoffroy's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus coelophyllus",
+            "common-name": "Croslet horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus cognatus",
+            "common-name": "Andaman horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus cohenae",
+            "common-name": "Cohen's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus convexus",
+            "common-name": "Convex horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus cornutus",
+            "common-name": "Little Japanese horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus creaghi",
+            "common-name": "Creagh's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus damarensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus darlingi",
+            "common-name": "Darling's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus deckenii",
+            "common-name": "Decken's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus denti",
+            "common-name": "Dent's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus eloquens",
+            "common-name": "Eloquent horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus euryale",
+            "common-name": "Mediterranean horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus euryotis",
+            "common-name": "Broad-eared horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus ferrumequinum",
+            "common-name": "Greater horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus formosae",
+            "common-name": "Formosan woolly horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus francisi",
+            "common-name": "Francis's woolly horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus fumigatus",
+            "common-name": "R\u00fcppell's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus guineensis",
+            "common-name": "Guinean horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus hildebrandti",
+            "common-name": "Hildebrandt's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus hilli",
+            "common-name": "Hill's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus hillorum",
+            "common-name": "Upland horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus hipposideros",
+            "common-name": "Lesser horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus horaceki",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus huananus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus imaizumii",
+            "common-name": "Imaizumi's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus indorouxii",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus inops",
+            "common-name": "Philippine forest horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus kahuzi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus keyensis",
+            "common-name": "Insular horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus landeri",
+            "common-name": "Lander's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus lanosus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus lepidus",
+            "common-name": "Blyth's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus luctoides",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus luctus",
+            "common-name": "Woolly horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus mabuensis",
+            "common-name": "Mount Mabu horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus maclaudi",
+            "common-name": "Maclaud's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus macrotis",
+            "common-name": "Big-eared horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus madurensis",
+            "common-name": "Madura horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus maendeleo",
+            "common-name": "Maendeleo horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus malayanus",
+            "common-name": "Malayan horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus marshalli",
+            "common-name": "Marshall's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus mcintyrei",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus megaphyllus",
+            "common-name": "Smaller horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus mehelyi",
+            "common-name": "Mehely's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus microglobosus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus mitratus",
+            "common-name": "Mitred horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus monoceros",
+            "common-name": "Formosan lesser horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus montanus",
+            "common-name": "Timorese horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus monticolus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus morio",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus mossambicus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus nereis",
+            "common-name": "Neriad horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus osgoodi",
+            "common-name": "Osgood's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus paradoxolophus",
+            "common-name": "Bourret's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus pearsonii",
+            "common-name": "Pearson's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus perditus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus philippinensis",
+            "common-name": "Large-eared horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus proconsulis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus pusillus",
+            "common-name": "Least horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus refulgens",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus rex",
+            "common-name": "King horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus robinsoni",
+            "common-name": "Peninsular horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus rouxii",
+            "common-name": "Rufous horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus rufus",
+            "common-name": "Large rufous horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus ruwenzorii",
+            "common-name": "Ruwenzori horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus sakejiensis",
+            "common-name": "Sakeji horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus schnitzleri",
+            "common-name": "Schnitzler's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus sedulus",
+            "common-name": "Lesser woolly horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus shameli",
+            "common-name": "Shamel's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus shortridgei",
+            "common-name": "Shortridge's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus siamensis",
+            "common-name": "Thai horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus silvestris",
+            "common-name": "Forest horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus simulator",
+            "common-name": "Bushveld horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus sinicus",
+            "common-name": "Chinese rufous horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus smithersi",
+            "common-name": "Smithers's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus stheno",
+            "common-name": "Lesser brown horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus subbadius",
+            "common-name": "Little Nepalese horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus subrufus",
+            "common-name": "Small rufous horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus swinnyi",
+            "common-name": "Swinny's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus tatar",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus thailandensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus thomasi",
+            "common-name": "Thomas's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus trifoliatus",
+            "common-name": "Trefoil horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus virgo",
+            "common-name": "Yellow-faced horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus willardi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus xinanzhongguoensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Rhinolophus yunanensis",
+            "common-name": "Dobson's horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinolophus ziama",
+            "common-name": "Ziama horseshoe bat"
+        },
+        {
+            "latin-name": "Rhinonicteris aurantia",
+            "common-name": "Orange leaf-nosed bat"
+        },
+        {
+            "latin-name": "Rhinophylla alethina",
+            "common-name": "Hairy little fruit bat"
+        },
+        {
+            "latin-name": "Rhinophylla fischerae",
+            "common-name": "Fischer's little fruit bat"
+        },
+        {
+            "latin-name": "Rhinophylla pumilio",
+            "common-name": "Dwarf little fruit bat"
+        },
+        {
+            "latin-name": "Rhinopoma cystops",
+            "common-name": "Egyptian mouse-tailed bat"
+        },
+        {
+            "latin-name": "Rhinopoma hadramauticum",
+            "common-name": "Yemeni mouse-tailed bat"
+        },
+        {
+            "latin-name": "Rhinopoma hardwickei",
+            "common-name": "Lesser mouse-tailed bat"
+        },
+        {
+            "latin-name": "Rhinopoma macinnesi",
+            "common-name": "Macinnes's mouse-tailed bat"
+        },
+        {
+            "latin-name": "Rhinopoma microphyllum",
+            "common-name": "Greater mouse-tailed bat"
+        },
+        {
+            "latin-name": "Rhinopoma muscatellum",
+            "common-name": "Small mouse-tailed bat"
+        },
+        {
+            "latin-name": "Rhogeessa aeneus",
+            "common-name": "Yucatan yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa bickhami",
+            "common-name": "Bickham's little yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa genowaysi",
+            "common-name": "Genoways's yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa gracilis",
+            "common-name": "Slender yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa hussoni",
+            "common-name": "Husson's yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa io",
+            "common-name": "Thomas's yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa minutilla",
+            "common-name": "Tiny yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa mira",
+            "common-name": "Least yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa parvula",
+            "common-name": "Little yellow bat"
+        },
+        {
+            "latin-name": "Rhogeessa tumida",
+            "common-name": "Black-winged little yellow bat"
+        },
+        {
+            "latin-name": "Rhynchonycteris naso",
+            "common-name": "Proboscis bat"
+        },
+        {
+            "latin-name": "Rousettus aegyptiacus",
+            "common-name": "Egyptian fruit bat"
+        },
+        {
+            "latin-name": "Rousettus amplexicaudatus",
+            "common-name": "Geoffroy's rousette"
+        },
+        {
+            "latin-name": "Rousettus celebensis",
+            "common-name": "Sulawesi rousette"
+        },
+        {
+            "latin-name": "Rousettus lanosus",
+            "common-name": "Long-haired rousette"
+        },
+        {
+            "latin-name": "Rousettus leschenaulti",
+            "common-name": "Leschenault's rousette"
+        },
+        {
+            "latin-name": "Rousettus linduensis",
+            "common-name": "Linduan rousette"
+        },
+        {
+            "latin-name": "Rousettus madagascariensis",
+            "common-name": "Madagascan rousette"
+        },
+        {
+            "latin-name": "Rousettus obliviosus",
+            "common-name": "Comoro rousette"
+        },
+        {
+            "latin-name": "Rousettus spinalatus",
+            "common-name": "Bare-backed rousette"
+        },
+        {
+            "latin-name": "Saccolaimus flaviventris",
+            "common-name": "Yellow-bellied pouched bat"
+        },
+        {
+            "latin-name": "Saccolaimus mixtus",
+            "common-name": "Troughton's pouched bat"
+        },
+        {
+            "latin-name": "Saccolaimus peli",
+            "common-name": "Pel's pouched bat"
+        },
+        {
+            "latin-name": "Saccolaimus saccolaimus",
+            "common-name": "Naked-rumped pouched bat"
+        },
+        {
+            "latin-name": "Saccopteryx antioquensis",
+            "common-name": "Antioquian sac-winged bat"
+        },
+        {
+            "latin-name": "Saccopteryx bilineata",
+            "common-name": "Greater sac-winged bat"
+        },
+        {
+            "latin-name": "Saccopteryx canescens",
+            "common-name": "Frosted sac-winged bat"
+        },
+        {
+            "latin-name": "Saccopteryx gymnura",
+            "common-name": "Amazonian sac-winged bat"
+        },
+        {
+            "latin-name": "Saccopteryx leptura",
+            "common-name": "Lesser sac-winged bat"
+        },
+        {
+            "latin-name": "Sauromys petrophilus",
+            "common-name": "Roberts's flat-headed bat"
+        },
+        {
+            "latin-name": "Scleronycteris ega",
+            "common-name": "Ega long-tongued bat"
+        },
+        {
+            "latin-name": "Scoteanax rueppellii",
+            "common-name": "R\u00fcppell's broad-nosed bat"
+        },
+        {
+            "latin-name": "Scotoecus albigula",
+            "common-name": "White-bellied lesser house bat"
+        },
+        {
+            "latin-name": "Scotoecus albofuscus",
+            "common-name": "Light-winged lesser house bat"
+        },
+        {
+            "latin-name": "Scotoecus hindei",
+            "common-name": "Hinde's lesser house bat"
+        },
+        {
+            "latin-name": "Scotoecus hirundo",
+            "common-name": "Dark-winged lesser house bat"
+        },
+        {
+            "latin-name": "Scotoecus pallidus",
+            "common-name": "Desert yellow bat"
+        },
+        {
+            "latin-name": "Scotomanes ornatus",
+            "common-name": "Harlequin bat"
+        },
+        {
+            "latin-name": "Scotonycteris bergmansi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Scotonycteris occidentalis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Scotonycteris zenkeri",
+            "common-name": "Zenker's fruit bat"
+        },
+        {
+            "latin-name": "Scotophilus andrewreborii",
+            "common-name": "Andrew Rebori's house bat"
+        },
+        {
+            "latin-name": "Scotophilus borbonicus",
+            "common-name": "Lesser yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus celebensis",
+            "common-name": "Sulawesi yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus collinus",
+            "common-name": "Sody's yellow house bat"
+        },
+        {
+            "latin-name": "Scotophilus dinganii",
+            "common-name": "African yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus heathi",
+            "common-name": "Greater Asiatic yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus kuhlii",
+            "common-name": "Lesser Asiatic yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus leucogaster",
+            "common-name": "White-bellied yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus nigrita",
+            "common-name": "Schreber's yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus nucella",
+            "common-name": "Robbins's yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus nux",
+            "common-name": "Nut-colored yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus robustus",
+            "common-name": "Robust yellow bat"
+        },
+        {
+            "latin-name": "Scotophilus viridis",
+            "common-name": "Greenish yellow bat"
+        },
+        {
+            "latin-name": "Scotorepens balstoni",
+            "common-name": "Western broad-nosed bat"
+        },
+        {
+            "latin-name": "Scotorepens greyii",
+            "common-name": "Little broad-nosed bat"
+        },
+        {
+            "latin-name": "Scotorepens orion",
+            "common-name": "Eastern broad-nosed bat"
+        },
+        {
+            "latin-name": "Scotorepens sanborni",
+            "common-name": "Northern broad-nosed bat"
+        },
+        {
+            "latin-name": "Scotozous dormeri",
+            "common-name": "Dormer's bat"
+        },
+        {
+            "latin-name": "Sphaeria blanfordi",
+            "common-name": "Blanford's fruit bat"
+        },
+        {
+            "latin-name": "Sphaeronycteris toxophyllum",
+            "common-name": "Visored bat"
+        },
+        {
+            "latin-name": "Stenoderma rufum",
+            "common-name": "Red fruit bat"
+        },
+        {
+            "latin-name": "Sturnira aratathomasi",
+            "common-name": "Aratathomas's yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira bidens",
+            "common-name": "Bidentate yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira bogotensis",
+            "common-name": "Bogota yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira burtonlimi",
+            "common-name": "Burton's yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira erythromos",
+            "common-name": "Hairy yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira koopmanhilli",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Sturnira lilium",
+            "common-name": "Little yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira ludovici",
+            "common-name": "Highland yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira luisi",
+            "common-name": "Louis's yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira magna",
+            "common-name": "Greater yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira mordax",
+            "common-name": "Talamancan yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira nana",
+            "common-name": "Lesser yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira sorianoi",
+            "common-name": "Soriano's yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira thomasi",
+            "common-name": "Thomas's yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Sturnira tildae",
+            "common-name": "Tilda's yellow-shouldered bat"
+        },
+        {
+            "latin-name": "Styloctenium mindorensis",
+            "common-name": "Mindoro stripe-faced fruit bat"
+        },
+        {
+            "latin-name": "Styloctenium wallacei",
+            "common-name": "Sulawesi stripe-faced fruit bat"
+        },
+        {
+            "latin-name": "Submyotodon caliginosus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Submyotodon latirostris",
+            "common-name": "Taiwan broad-muzzled myotis"
+        },
+        {
+            "latin-name": "Submyotodon moupinensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Submyotodon petersbuchensis",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Syconycteris australis",
+            "common-name": "Common blossom bat"
+        },
+        {
+            "latin-name": "Syconycteris carolinae",
+            "common-name": "Halmahera blossom bat"
+        },
+        {
+            "latin-name": "Syconycteris hobbit",
+            "common-name": "Moss-forest blossom bat"
+        },
+        {
+            "latin-name": "Tadarida aegyptiaca",
+            "common-name": "Egyptian free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida australis",
+            "common-name": "White-striped free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida brasiliensis",
+            "common-name": "Mexican free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida fulminans",
+            "common-name": "Madagascan large free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida insignis",
+            "common-name": "East Asian free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida kuboriensis",
+            "common-name": "New Guinea free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida latouchei",
+            "common-name": "La Touche's free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida lobata",
+            "common-name": "Kenyan big-eared free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida teniotis",
+            "common-name": "European free-tailed bat"
+        },
+        {
+            "latin-name": "Tadarida ventralis",
+            "common-name": "African giant free-tailed bat"
+        },
+        {
+            "latin-name": "Taphozous achates",
+            "common-name": "Indonesian tomb bat"
+        },
+        {
+            "latin-name": "Taphozous australis",
+            "common-name": "Coastal sheath-tailed bat"
+        },
+        {
+            "latin-name": "Taphozous georgianus",
+            "common-name": "Common sheath-tailed bat"
+        },
+        {
+            "latin-name": "Taphozous hamiltoni",
+            "common-name": "Hamilton's tomb bat"
+        },
+        {
+            "latin-name": "Taphozous hildegardeae",
+            "common-name": "Hildegarde's tomb bat"
+        },
+        {
+            "latin-name": "Taphozous hilli",
+            "common-name": "Hill's sheath-tailed bat"
+        },
+        {
+            "latin-name": "Taphozous kapalgensis",
+            "common-name": "Arnhem sheath-tailed bat"
+        },
+        {
+            "latin-name": "Taphozous longimanus",
+            "common-name": "Long-winged tomb bat"
+        },
+        {
+            "latin-name": "Taphozous mauritianus",
+            "common-name": "Mauritian tomb bat"
+        },
+        {
+            "latin-name": "Taphozous melanopogon",
+            "common-name": "Black-bearded tomb bat"
+        },
+        {
+            "latin-name": "Taphozous nudiventris",
+            "common-name": "Naked-rumped tomb bat"
+        },
+        {
+            "latin-name": "Taphozous perforatus",
+            "common-name": "Egyptian tomb bat"
+        },
+        {
+            "latin-name": "Taphozous theobaldi",
+            "common-name": "Theobald's tomb bat"
+        },
+        {
+            "latin-name": "Taphozous troughtoni",
+            "common-name": "Troughton's sheath-tailed bat"
+        },
+        {
+            "latin-name": "Thoopterus nigrescens",
+            "common-name": "Swift fruit bat"
+        },
+        {
+            "latin-name": "Thoopterus suhaniahae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Thyroptera devivoi",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Thyroptera discifera",
+            "common-name": "Peter's disk-winged bat"
+        },
+        {
+            "latin-name": "Thyroptera lavali",
+            "common-name": "LaVal's disk-winged bat"
+        },
+        {
+            "latin-name": "Thyroptera tricolor",
+            "common-name": "Spix's disk-winged bat"
+        },
+        {
+            "latin-name": "Thyroptera wynneae",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Tomopeas ravus",
+            "common-name": "Blunt-eared bat"
+        },
+        {
+            "latin-name": "Tonatia bidens",
+            "common-name": "Greater round-eared bat"
+        },
+        {
+            "latin-name": "Tonatia saurophila",
+            "common-name": "Stripe-headed round-eared bat"
+        },
+        {
+            "latin-name": "Trachops cirrhosus",
+            "common-name": "Fringe-lipped bat"
+        },
+        {
+            "latin-name": "Triaenops afer",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Triaenops menamena",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Triaenops parvus",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Triaenops persicus",
+            "common-name": "Rufous trident bat"
+        },
+        {
+            "latin-name": "Tylonycteris pachypus",
+            "common-name": "Lesser bamboo bat"
+        },
+        {
+            "latin-name": "Tylonycteris robustula",
+            "common-name": "Greater bamboo bat"
+        },
+        {
+            "latin-name": "Uroderma bilobatum",
+            "common-name": "Tent-making bat"
+        },
+        {
+            "latin-name": "Uroderma magnirostrum",
+            "common-name": "Brown tent-making bat"
+        },
+        {
+            "latin-name": "Vampyressa bidens",
+            "common-name": "Bidentate yellow-eared bat"
+        },
+        {
+            "latin-name": "Vampyressa brocki",
+            "common-name": "Brock's yellow-eared bat"
+        },
+        {
+            "latin-name": "Vampyressa melissa",
+            "common-name": "Melissa's yellow-eared bat"
+        },
+        {
+            "latin-name": "Vampyressa nymphaea",
+            "common-name": "-"
+        },
+        {
+            "latin-name": "Vampyressa pusilla",
+            "common-name": "Southern little yellow-eared bat"
+        },
+        {
+            "latin-name": "Vampyressa thyone",
+            "common-name": "Northern little yellow-eared bat"
+        },
+        {
+            "latin-name": "Vampyrodes caraccioli",
+            "common-name": "Great stripe-faced bat"
+        },
+        {
+            "latin-name": "Vampyrum spectrum",
+            "common-name": "Spectral bat"
+        },
+        {
+            "latin-name": "Vespadelus baverstocki",
+            "common-name": "Inland forest bat"
+        },
+        {
+            "latin-name": "Vespadelus caurinus",
+            "common-name": "Northern cave bat"
+        },
+        {
+            "latin-name": "Vespadelus darlingtoni",
+            "common-name": "Large forest bat"
+        },
+        {
+            "latin-name": "Vespadelus douglasorum",
+            "common-name": "Yellow-lipped bat"
+        },
+        {
+            "latin-name": "Vespadelus finlaysoni",
+            "common-name": "Finlayson's cave bat"
+        },
+        {
+            "latin-name": "Vespadelus pumilus",
+            "common-name": "Eastern forest bat"
+        },
+        {
+            "latin-name": "Vespadelus regulus",
+            "common-name": "Southern forest bat"
+        },
+        {
+            "latin-name": "Vespadelus troughtoni",
+            "common-name": "Troughton's forest bat"
+        },
+        {
+            "latin-name": "Vespadelus vulturnus",
+            "common-name": "Little forest bat"
+        },
+        {
+            "latin-name": "Vespertilio murinus",
+            "common-name": "Parti-coloured bat"
+        },
+        {
+            "latin-name": "Vespertilio sinensis",
+            "common-name": "Asian parti-coloured bat"
+        },
+        {
+            "latin-name": "wrinkle-faced bat; monotypic",
+            "common-name": "Genus Centurio"
+        }
+    ]
+}

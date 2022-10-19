@@ -8,6 +8,14 @@ import TableHead from '@mui/material/TableHead';
 import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
 
+
+function getCordinateStr(cordinates) {
+  var lat = cordinates[0] >= 0 ? 'N' : 'S';
+  var long = cordinates[1] >= 0 ? 'E' : 'W';
+
+  return `${Math.abs(cordinates[0])} ${lat} ${Math.abs(cordinates[1])} ${long}`
+}
+
 const columns = [
   { id: 'id',
     label: 'Id',
@@ -83,13 +91,13 @@ export default function ColumnGroupingTable(props) {
       item.date, 
       item.bat, 
       item.virus, 
-      item.cordinates, 
+      getCordinateStr(item.cordinates), 
       item.country, 
       item.state, 
       item.county, 
       ))
     fillRows(discovers)
-  }, [])
+  }, [props.tableData.discovers])
 
   const [page, setPage] = useState(0);
   const [rowsPerPage, setRowsPerPage] = useState(10);

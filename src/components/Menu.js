@@ -57,6 +57,7 @@ export default function TabSwitcher(props) {
         <Tabs value={value} onChange={handleChange} centered>
           <Tab label="Display Map" {...a11yProps(0)} />
           <Tab label="Recently discovered" {...a11yProps(1)} />
+          <Tab label="About Project" {...a11yProps(2)} disabled = {true}/>
         </Tabs>
       </Box>
       <TabPanel value={value} index={0}>
@@ -64,6 +65,9 @@ export default function TabSwitcher(props) {
       </TabPanel>
       <TabPanel value={value} index={1}>
         <ColumnGroupingTable tableData={props.tableData}/>
+      </TabPanel>
+      <TabPanel value={value} index={2}>
+        <Box>About</Box>
       </TabPanel>
     </Box>
   );
