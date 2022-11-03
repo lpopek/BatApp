@@ -7,6 +7,7 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
+import Link from '@mui/material/Link';
 
 
 function getCordinateStr(cordinates) {
@@ -16,23 +17,34 @@ function getCordinateStr(cordinates) {
   return `${Math.abs(cordinates[0])} ${lat} ${Math.abs(cordinates[1])} ${long}`
 }
 
+function createDOIstr(doi){
+  return `https://doi.org/${doi}`
+}
+
 const columns = [
   { id: 'id',
     label: 'Id',
     minWidth: 30 
   },
   {
+    id: 'paper',
+    label: 'Paper Name',
+    minWidth: 190,
+    align: 'right',
+  },
+  {
+    id: 'doi',
+    label: 'DOI',
+    minWidth: 60,
+    align: 'right',
+    format: (value) => value.toLocaleString('en-US')
+  },
+  {
     id: 'date',
-    label: 'Date of discover',
+    label: 'Date of Publication',
     minWidth: 100,
     align: 'right',
     format: (value) => value.toLocaleString('en-US'),
-  },
-  {
-    id: 'paper',
-    label: 'Paper Name',
-    minWidth: 120,
-    align: 'right',
   },
   { 
     id: 'bat', 
@@ -45,6 +57,13 @@ const columns = [
     label: 'Virus',
     minWidth: 100,
     align: 'right',
+  },
+  {
+    id: 'virus_link',
+    label: 'Link to Virus Database',
+    minWidth: 60,
+    align: 'right',
+    format: (value) => value.toLocaleString('en-US')
   },
   {
     id: 'geo_cord',
@@ -62,42 +81,34 @@ const columns = [
   },
   {
     id: 'loc_1',
-    label: 'State',
+    label: 'Subdevision_1',
     minWidth: 60,
     align: 'right',
     format: (value) => value.toLocaleString('en-US')
   },
-  {
-    id: 'loc_2',
-    label: 'County',
-    minWidth: 60,
-    align: 'right',
-    format: (value) => value.toLocaleString('en-US')
-  }
 ];
 
-function createData(id, paper, date, bat, virus, geo_cord, loc_0, loc_1, loc_2) {
-  return { id, paper, date, bat, virus, geo_cord, loc_0, loc_1, loc_2};
+function createData(id, paper, doi, date, bat, virus, virus_link, geo_cord, loc_0, loc_1) {
+  return { id, paper, doi, date, bat, virus, virus_link, geo_cord, loc_0, loc_1};
 }
 
 
 export default function ColumnGroupingTable(props) {
-
   const[rows, fillRows] = useState([]);
   useEffect(() => {
-    const discovers = props.tableData.discovers.reverse().map((item) => createData(
-      item.id, 
-      item.paper_name, 
-      item.date, 
-      item.bat, 
-      item.virus, 
-      getCordinateStr(item.cordinates), 
-      item.country, 
-      item.state, 
-      item.county, 
-      ))
-    fillRows(discovers)
-  }, [props.tableData.discovers])
+      const discovers = props.tableData.reverse().map((item) => createData(
+        item.id, 
+        item.paper_name,
+        item.doi,
+        item.date, 
+        item.bat, 
+        item.virus,
+        item.virus_link,
+        getCordinateStr(item.cordinates), 
+        item.country 
+        ))
+      fillRows(discovers)
+  }, [props.tableData])
 
   const [page, setPage] = useState(0);
   const [rowsPerPage, setRowsPerPage] = useState(10);
@@ -136,13 +147,21 @@ export default function ColumnGroupingTable(props) {
                   <TableRow hover role="checkbox" tabIndex={-1} key={row.code}>
                     {columns.map((column) => {
                       const value = row[column.id];
-                      return (
-                        <TableCell key={column.id} align={column.align}>
-                          {column.format && typeof value === 'number'
-                            ? column.format(value)
-                            : value}
+                      if (column == 'doi'){
+                        return (
+                          <TableCell key={column.id} align={column.align}>
+                            <Link href={createDOIstr(value)}>Link</Link>
                         </TableCell>
-                      );
+                        )
+                      }
+                      else{
+                        return (
+                          <TableCell key={column.id} align={column.align}>
+                            {column.format && typeof value === 'number'
+                              ? column.format(value)
+                              : value}
+                          </TableCell>);
+                      }
                     })}
                   </TableRow>
                 );

@@ -10,7 +10,6 @@ import VectorLayer from 'ol/layer/Vector'
 import VectorSource from 'ol/source/Vector'
 import XYZ from 'ol/source/XYZ'
 
-
 import {Circle, Fill, Stroke, Style} from 'ol/style'
 
 const colors = [
@@ -51,9 +50,12 @@ export default function MapWrapper(props) {
 
   const [dialogIsOpen, setDialogIsOpen] = useState(false)
   const [featureProperties, setFeatureProperties] = useState()
-  
-  const closeDialog = () => setDialogIsOpen(false)
+  const [currentDisc, setCurrentDiscovery] = useState(0)
+  const incrementInd = () => {setCurrentDiscovery(currentDisc + 1)}
+  const decrementInd = () => {setCurrentDiscovery(currentDisc - 1)}
+  const closeDialog = () => {setDialogIsOpen(false); setCurrentDiscovery(0)}
   const openDialog = () => setDialogIsOpen(true)
+  
 
   const [ map, setMap ] = useState()
   const [ featuresLayer, setFeaturesLayer ] = useState(() =>{
@@ -102,7 +104,6 @@ export default function MapWrapper(props) {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   },[props.features])
-
   let hoverOver = null;
   const handleFeatureHover = (event) =>{
     if (hoverOver !== null) {
@@ -115,20 +116,17 @@ export default function MapWrapper(props) {
       return true;
     });
   }
-
   var featureOnClick = null;
   const handleMapClick = (event) => {
     featureOnClick = mapRef.current.forEachFeatureAtPixel(event.pixel, function(feature, layer) {
+
       setFeatureProperties(feature.values_)
       openDialog()
     });
-    
   }
-
-  // render component
   return (      
     <div ref={mapElement} className="map-container">
-      <InfoDialog open={dialogIsOpen} onClose={closeDialog} featureProperties = {featureProperties}/>
+      <InfoDialog open={dialogIsOpen} onClose={closeDialog} currentDisc = {currentDisc} incrementInd = {incrementInd} decrementInd = {decrementInd} featureProperties = {featureProperties} isoData = {props.isoData}/>
     </div>
   ) 
 
