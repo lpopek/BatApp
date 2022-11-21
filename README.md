@@ -2,7 +2,7 @@
 
 ![Result of Detection](docs/bat-app-desktopview.jpg)
 
-## What it does
+## What it does?
 
 The project aimed to create a virtual hotspot map of new coronavirus discoveries in bat species. It consists of two parts - an AI module to search and download scientific articles to pdf files, and a module with visualisation being deployed at [BatAppLink](https://lpopek.github.io/BatApp/). Currently displayed data were gained with scraping information form [DBatvir](http://www.mgc.ac.cn/DBatVir/), a chinnes DataBase, wchich presents state of the art of recent Coronavirus apperences around the World.
 
