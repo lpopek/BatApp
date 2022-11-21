@@ -62,7 +62,7 @@ export default function TabSwitcher(props) {
         <MapWrapper features={props.geopoints} isoData = {props.isoData}/>
       </TabPanel>
       <TabPanel value={value} index={1}>
-        <ColumnGroupingTable tableData={props.tableData}/>
+        <ColumnGroupingTable tableData={props.tableData} isoData = {props.isoData}/>
       </TabPanel>
       {/* <TabPanel value={value} index={2}>
         <Box></Box>
