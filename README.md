@@ -1,28 +1,59 @@
 # BatApp
 
-## Abstract
+![Result of Detection](docs/bat-app-desktopview.jpg)
 
-The project aimed to create a virtual hotspot map of new coronavirus discoveries in bat species. It consists of two parts - an AI module to search and download scientific articles to pdf files, and a module with visualisation being deployed at: https://lpopek.github.io/BatApp/
+## What it does
 
-## How to use it?
+The project aimed to create a virtual hotspot map of new coronavirus discoveries in bat species. It consists of two parts - an AI module to search and download scientific articles to pdf files, and a module with visualisation being deployed at [BatAppLink](https://lpopek.github.io/BatApp/). Currently displayed data were gained with scraping information form [DBatvir](http://www.mgc.ac.cn/DBatVir/), a chinnes DataBase, wchich presents state of the art of recent Coronavirus apperences around the World.
 
-1. install dependencies: pip install -r requirements.txt
-2. open command prompt and change directory to the folder containing BatApp-pipline.py and folder with data
-3. using the AI module for a different type of problem, prepare a representative collection containing the contents of the abstracts of the scientific articles under which the classifier is to be trained. Notepad is used for this: BatApp-NLP-clasificator.ipynb
-4. create a folder in which to save the article files
-5. run the BatApp-pipeline.py script using the command ./BatApp-pipeline.py
-
-Trained classificators one can foound in folder bat-app-ai/cls
+## AI MODULE
 
 ### Required packages
 
-- bs4>=  4.9.0
-- pandas >= 1.5.0
-- requests >= 2.28.1
-- asyncio >= 3.11.0
-- aiohttp >= 3.8.3
+* [Python](https://docs.python.org/3.9/) >= 3.9.2
+* [BeautifullSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) >= 4.9.0
+* [Pandas](https://pandas.pydata.org/) >= 1.5.0
+* [requests](https://pypi.org/project/requests/) >= 2.28.1
+* [asyncio](https://docs.python.org/3/library/asyncio.html) >= 3.11.0
+* [aiohttp](https://docs.aiohttp.org/en/stable/) >= 3.8.3
+* [NLTK](https://www.nltk.org/) >= 3.7 with models/datatests: stopwords, wordnet, punkt, wveragged_perceprtron_tagger, owm-1.4
+* [re](https://docs.python.org/3/library/re.html) >= 2.2.1
+* [joblib](https://joblib.readthedocs.io/en/latest/) >= 1.2.0
 
-## Visualisation tool maunal
+## How to use it?
+
+1. install dependencies:
+
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+2. open command prompt and change directory to the folder containing BatApp-pipline.py and folder with data
+3. using the AI module for a different type of problem, prepare a representative collection containing the contents of the abstracts of the scientific articles under which the classifier is to be trained. Notepad is used for this: BatApp-NLP-clasificator.ipynb
+4. create a folder in which to save the article files
+5. run the BatApp-pipeline.py script using the command:
+
+   ```sh
+   ./BatApp-pipeline.py --start <int> --stop <int> --pages <int> --dir <str> 
+   ```
+
+  with args:
+
+* --start lower limit of search interval
+* --stop upper limit of saerch interval
+* --pages limit of pages, which program will search through in Pubmed
+* --dir the directory for saving data
+
+Trained classificators one can foound in folder bat-app-ai/cls. Downloaded results will be stored in saving directory. 
+
+### Usage Example
+
+When the program is lauched proper execution should look familiar with below printscreen of logs.
+
+![Result of Detection](docs/log_bat-app-pipeline.jpg)
+
+
+## Visualisation Module
 
 ### Contribution
 
