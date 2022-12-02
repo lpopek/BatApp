@@ -7,7 +7,6 @@ import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
-import TableFooter from '@mui/material/TableFooter';
 import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
 import Link from '@mui/material/Link';
@@ -164,6 +163,7 @@ function createData(id, paper, doi, date, bat, virus, virus_link, geo_cord, loc_
 
 export default function ColumnGroupingTable(props) {
   const[rows, fillRows] = useState([]);
+  const[filters, setFilters] = useState({})
   useEffect(() => {
       const discovers = props.tableData.reverse().map((item) => createData(
         item.id, 
@@ -200,6 +200,16 @@ export default function ColumnGroupingTable(props) {
     setPage(0);
   };
 
+  const handleFilterRow = (
+    event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>,
+    colID: String
+  ) => {
+    var currentFilters = filters
+    currentFilters[colID] = event.target.value
+    setFilters(currentFilters)
+    console.log(filters)
+  }
+
   return (
     <Paper sx={{ width: '100%' }} className='map-container'>
       <TableContainer className='table-container'>
@@ -225,7 +235,7 @@ export default function ColumnGroupingTable(props) {
                         align={column.align}
                         style={{ top: 0, minWidth: column.minWidth }}
                       >
-                        <TextField id={column.id + '_filter_field'} label={column.label} variant="outlined" />
+                        <TextField id={column.id + '_filter_field'} label={column.label} variant="outlined" onChange={(e) => handleFilterRow(e, column.id)}/>
                     </TableCell>
                   )
                 }
@@ -240,14 +250,14 @@ export default function ColumnGroupingTable(props) {
                   <TableRow hover role="checkbox" tabIndex={-1} key={row.code}>
                     {columns.map((column) => {
                       const value = row[column.id];
-                      if ((column.id == 'doi' && value !== 'N/A')||(column.id == 'virus_link' && value !== 'N/A')){
+                      if ((column.id === 'doi' && value !== 'N/A')||(column.id === 'virus_link' && value !== 'N/A')){
                         return (
                           <TableCell key={column.id} align={column.align}>
                             <Link href={createDOIstr(value)}>{column.label}</Link>
                         </TableCell>
                         )
                       }
-                      else if (column.id == 'loc_0' && typeof props.isoData[value] !== 'undefined'){
+                      else if (column.id === 'loc_0' && typeof props.isoData[value] !== 'undefined'){
                         return (
                           <TableCell key={column.id} align={column.align}>
                             {props.isoData[value].name}

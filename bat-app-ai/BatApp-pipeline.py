@@ -1,13 +1,11 @@
 import os, argparse
 
-# ##### INPUT DATA #####
-# pages = 3  ### how many pages from PUBMED should be scraped
-# begin = 2015 ### year of begnnig of search
-# end = 2022 ### yer of end of search
-# dir_of_save = "D:\\STUDIA\\Semestr_12\\ICM\\mgr_icm\\repo\\bat-app\\bat-app-ai\\downloaded_articles"
 
-def main(begin, end, pages, dir_of_save):
-    print(begin, end, pages, dir_of_save)
+def main(begin, end, pages, save_dir):
+    if not os.path(save_dir):
+        print("[ERROR]: Save path doesn't exist.")
+        print("[ERROR]: Aborting process.")
+        exit()
     print("[INFO]: Launching searching module")
     exit_code = os.system(f"py async_pubmed_scraper.py --pages {pages} --start {begin} --stop {end}")
     if exit_code:
@@ -19,7 +17,7 @@ def main(begin, end, pages, dir_of_save):
     exit_code = 1
     if exit_code:
         print("[INFO]: Launching download module")
-        exit_code = os.system(f"py download_articles.py -o {dir_of_save}")
+        exit_code = os.system(f"py download_articles.py -o {save_dir}")
         print("[INFO]: Final Operations")
     else:
         print("[ERROR]: Aborting process.")

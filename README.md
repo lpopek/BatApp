@@ -52,7 +52,6 @@ When the program is lauched proper execution should look familiar with below pri
 
 ![Result of Detection](docs/log_bat-app-pipeline.jpg)
 
-
 ## Visualisation Module
 
 ### Contribution

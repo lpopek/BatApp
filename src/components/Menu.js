@@ -63,6 +63,7 @@ export default function TabSwitcher(props) {
       </TabPanel>
       <TabPanel value={value} index={1}>
         <ColumnGroupingTable tableData={props.tableData} isoData = {props.isoData}/>
+        {/* <InitialFilters/> */}
       </TabPanel>
       {/* <TabPanel value={value} index={2}>
         <Box></Box>
