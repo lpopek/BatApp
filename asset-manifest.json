@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BatApp/static/css/main.747dc98d.css",
-    "main.js": "/BatApp/static/js/main.888c9d85.js",
+    "main.css": "/BatApp/static/css/main.6cfb8317.css",
+    "main.js": "/BatApp/static/js/main.ac302920.js",
     "static/js/787.9c6eb828.chunk.js": "/BatApp/static/js/787.9c6eb828.chunk.js",
     "index.html": "/BatApp/index.html",
-    "main.747dc98d.css.map": "/BatApp/static/css/main.747dc98d.css.map",
-    "main.888c9d85.js.map": "/BatApp/static/js/main.888c9d85.js.map",
+    "main.6cfb8317.css.map": "/BatApp/static/css/main.6cfb8317.css.map",
+    "main.ac302920.js.map": "/BatApp/static/js/main.ac302920.js.map",
     "787.9c6eb828.chunk.js.map": "/BatApp/static/js/787.9c6eb828.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.747dc98d.css",
-    "static/js/main.888c9d85.js"
+    "static/css/main.6cfb8317.css",
+    "static/js/main.ac302920.js"
   ]
 }
